@@ -7,56 +7,171 @@
  */
 var questions = [
                  {
-                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
-                         "Johnny Bark",
-                         "Lindsay Bluth",
-                         "White Power Bill",
-                         "Stan Sitwell",
-                         "Maybe Funke",
-                         "Lucille Austero"
+                     "In which month did the pilot air?": [
+                         "November two thousand three",
+                         "October two thousand two",
+                         "April two thousand four",
+                         "September two thousand three",
+                         "November two thousand one",
+                         "April two thousand five"
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
-                         "Johnny Bark",
-                         "Lindsay Bluth",
-                         "White Power Bill",
-                         "Stan Sitwell",
-                         "Maybe Funke",
-                         "Lucille Austero"
+                     "How much money did the Bluth family spend on cartography classes for Buster?": [
+                         "Eighty thousand dollars",
+                         "Forty thousand dollars",
+                         "Ninety thousand dollars",
+                         "Fifty thousand dollars",
+                         "Seventy five thousand dollars",
+                         "Twenty thousand dollars"
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
-                         "Johnny Bark",
-                         "Lindsay Bluth",
-                         "White Power Bill",
-                         "Stan Sitwell",
-                         "Maybe Funke",
-                         "Lucille Austero"
+                     "Which of the following is NOT a way Maybe has rebelled against her parents?": [
+                         "Getting a tattoo",
+                         "Threatening to enter beauty <phoneme alphabet=\"ipa\" ph=\"pæd͡ʒɛnts\">pagents</phoneme>",
+                         "Threatening to run away",
+                         "Kissing her cousin",
+                         "Becoming a movie producer"
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
-                         "Johnny Bark",
-                         "Lindsay Bluth",
-                         "White Power Bill",
-                         "Stan Sitwell",
-                         "Maybe Funke",
-                         "Lucille Austero"
+                     "In the season one episode Top Banana, who burned down the storage unit containing the Bluth company flight records?": [
+                         "T Bone",
+                         "Lucille Bluth",
+                         "George Bluth",
+                         "Barry Zuckerkorn",
+                         "Gene Parmesan",
+                         "Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Roger Danish"
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
-                         "Johnny Bark",
-                         "Lindsay Bluth",
-                         "White Power Bill",
-                         "Stan Sitwell",
-                         "Maybe Funke",
-                         "Lucille Austero"
+                     "Which yearbook award did Lindsay and Roger Danish win in high school?": [
+                         "Best hair",
+                         "Best shoes",
+                         "Most likely to burn down the school",
+                         "Most likely to marry for money",
+                         "Best makeup",
+                         "Most likely to become a philanthropist"
+                     ]
+                 },
+                 {
+                     "In the season one episode Top Banana, what does Jobe say is his least consistent magic trick?": [
+                         "Fireball",
+                         "<phoneme alphabet=\"ipa\" ph=\"laɪv\">Live</phoneme> doves",
+                         "Shooting pennies",
+                         "The Aztec Tomb",
+                         "Making the yacht disappear",
+                         "Live mice"
                      ]
                  }
 ];
+
+/* To copy
+
+,
+                 {
+                     "": [
+                         "",
+                         "",
+                         "",
+                         "",
+                         "",
+                         ""
+                     ]
+                 },
+                 {
+                     "": [
+                         "",
+                         "",
+                         "",
+                         "",
+                         "",
+                         ""
+                     ]
+                 },
+                 {
+                     "": [
+                         "",
+                         "",
+                         "",
+                         "",
+                         "",
+                         ""
+                     ]
+                 }
+
+ */
+
+/* To do list
+S1E3
+S1E4
+S1E5
+S1E6
+S1E7
+S1E8
+S1E9
+S1E10
+S1E11
+S1E12
+S1E13
+S1E14
+S1E15
+S1E16
+S1E17
+S1E18
+S1E19
+S1E20
+S1E21
+S1E22
+S2E1
+S2E2
+S2E3
+S2E4
+S2E5
+S2E6
+S2E7
+S2E8
+S2E9
+S2E10
+S2E11
+S2E12
+S2E13
+S2E14
+S2E15
+S2E16
+S2E17
+S2E18
+S3E1
+S3E2
+S3E3
+S3E4
+S3E5
+S3E6
+S3E7
+S3E8
+S3E9
+S3E10
+S3E11
+S3E12
+S3E13
+S4E1
+S4E2
+S4E3
+S4E4
+S4E5
+S4E6
+S4E7
+S4E8
+S4E9
+S4E10
+S4E11
+S4E12
+S4E13
+S4E14
+S4E15
+ */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
 // etc.) The JSON body of the request is provided in the event parameter.
@@ -417,8 +532,8 @@ function isAnswerSlotValid(intent) {
 function buildSpeechletResponse(title, output, repromptText, shouldEndSession) {
     return {
         outputSpeech: {
-            type: "PlainText",
-            text: output
+            type: "SSML",
+            ssml: "<speak>" + output + "</speak>"
         },
         card: {
             type: "Simple",
@@ -427,8 +542,8 @@ function buildSpeechletResponse(title, output, repromptText, shouldEndSession) {
         },
         reprompt: {
             outputSpeech: {
-                type: "PlainText",
-                text: repromptText
+                type: "SSML",
+                ssml: "<speak>" + repromptText + "</speak>"
             }
         },
         shouldEndSession: shouldEndSession
@@ -438,13 +553,13 @@ function buildSpeechletResponse(title, output, repromptText, shouldEndSession) {
 function buildSpeechletResponseWithoutCard(output, repromptText, shouldEndSession) {
     return {
         outputSpeech: {
-            type: "PlainText",
-            text: output
+            type: "SSML",
+            ssml: "<speak>" + output + "</speak>"
         },
         reprompt: {
             outputSpeech: {
-                type: "PlainText",
-                text: repromptText
+                type: "SSML",
+                ssml: "<speak>" + repromptText + "</speak>"
             }
         },
         shouldEndSession: shouldEndSession
