@@ -1,17 +1,3 @@
-/**
- Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
- Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
-
- http://aws.amazon.com/apache2.0/
-
- or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
- */
-
-/**
- * This sample shows how to create a simple Trivia skill with a multiple choice format. The skill
- * supports 1 player at a time, and does not support games across sessions.
- */
 
 'use strict';
 
@@ -20,248 +6,56 @@
  * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
  */
 var questions = [
-    {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
-        ]
-    },
-    {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
-        ]
-    },
-    {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
-        ]
-    },
-    {
-        "If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be:": [
-            "Girls",
-            "Boys",
-            "Girls and boys",
-            "No way to tell"
-        ]
-    },
-    {
-        "What do Reindeer eat?": [
-            "Lichen",
-            "Grasses",
-            "Leaves",
-            "Berries"
-        ]
-    },
-    {
-        "What of the following is not true?": [
-            "Caribou live on all continents",
-            "Both reindeer and Caribou are the same species",
-            "Caribou are bigger than reindeer",
-            "Reindeer live in Scandinavia and Russia"
-        ]
-    },
-    {
-        "In what year did Rudolph make his television debut?": [
-            "1964",
-            "1979",
-            "2000",
-            "1956"
-        ]
-    },
-    {
-        "Who was the voice of Rudolph in the 1964 classic?": [
-            "Billie Mae Richards",
-            "Burl Ives",
-            "Paul Soles",
-            "Lady Gaga"
-        ]
-    },
-    {
-        "In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?": [
-            "Montgomery Ward",
-            "Sears",
-            "Macys",
-            "Kmart"
-        ]
-    },
-    {
-        "Santa's reindeer named Donner was originally named what?": [
-            "Dunder",
-            "Donny",
-            "Dweedle",
-            "Dreamy"
-        ]
-    },
-    {
-        "Who invented the story of Rudolph?": [
-            "Robert May",
-            "Johnny Marks",
-            "Santa",
-            "J.K. Rowling"
-        ]
-    },
-    {
-        "In what location will you not find reindeer?": [
-            "North Pole",
-            "Lapland",
-            "Korvatunturi mountain",
-            "Finland"
-        ]
-    },
-    {
-        "What Makes Santa's Reindeer Fly?": [
-            "Magical Reindeer Dust",
-            "Fusion",
-            "Amanita muscaria",
-            "Elves"
-        ]
-    },
-    {
-        "Including Rudolph, how many reindeer hooves are there?": [
-            "36",
-            "24",
-            "16",
-            "8"
-        ]
-    },
-    {
-        "Santa only has one female reindeer. Which one is it?": [
-            "Vixen",
-            "Clarice",
-            "Cupid",
-            "Cupid"
-        ]
-    },
-    {
-        "In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?": [
-            "Sam",
-            "Frosty",
-            "Burl",
-            "Snowy"
-        ]
-    },
-    {
-        "What was Rudolph's father's name?": [
-            "Donner",
-            "Dasher",
-            "Blixen",
-            "Comet"
-        ]
-    },
-    {
-        "In the 1964 movie, What was the name of the coach of the Reindeer Games?": [
-            "Comet",
-            "Blixen",
-            "Donner",
-            "Dasher"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?": [
-            "Fireball",
-            "Clarice",
-            "Jumper",
-            "Vixen"
-        ]
-    },
-    {
-        "In the 1964 movie, How did Donner, Rudolph's father, try to hide Rudolph's nose?": [
-            "Black mud",
-            "Bag",
-            "Pillow case",
-            "Sock"
-        ]
-    },
-    {
-        "In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?": [
-            "Dentist",
-            "Reindeer",
-            "Toy maker",
-            "Candlestick maker"
-        ]
-    },
-    {
-        "In the 1964 movie,what was the Bumble's one weakness?": [
-            "Could not swim",
-            "Always hungry",
-            "Candy canes",
-            "Cross eyed"
-        ]
-    },
-    {
-        "In the 1964 movie, what is Yukon Cornelius really in search of?": [
-            "Peppermint",
-            "Gold",
-            "India",
-            "Polar Bears"
-        ]
-    },
-    {
-        "In the 1964 movie, why is the train on the Island of Misfit Toys?": [
-            "Square wheels",
-            "No Engine",
-            "Paint does not match",
-            "It does not toot"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the Jack in the Box?": [
-            "Charlie",
-            "Sam",
-            "Billy",
-            "Jack"
-        ]
-    },
-    {
-        "In the 1964 movie, why did Santa Claus almost cancel Christmas?": [
-            "Storm",
-            "No snow",
-            "No toys",
-            "The Reindeer were sick"
-        ]
-    },
-    {
-        "In the 1964 movie, what animal noise did the elf make to distract the Bumble?": [
-            "Oink",
-            "Growl",
-            "Bark",
-            "Meow"
-        ]
-    },
-    {
-        "In the 1964 movie, what is the name of the prospector?": [
-            "Yukon Cornelius",
-            "Slider Sam",
-            "Bumble",
-            "Jack"
-        ]
-    },
-    {
-        "How far do reindeer travel when they migrate?": [
-            "3000 miles",
-            "700 miles",
-            "500 miles",
-            "0 miles"
-        ]
-    },
-    {
-        "How fast can a reindeer run?": [
-            "48 miles per hour",
-            "17 miles per hour",
-            "19 miles per hour",
-            "14 miles per hour"
-        ]
-    }
+                 {
+                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
+                         "Johnny Bark",
+                         "Lindsay Bluth",
+                         "White Power Bill",
+                         "Stan Sitwell",
+                         "Maybe Funke",
+                         "Lucille Austero"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
+                         "Johnny Bark",
+                         "Lindsay Bluth",
+                         "White Power Bill",
+                         "Stan Sitwell",
+                         "Maybe Funke",
+                         "Lucille Austero"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
+                         "Johnny Bark",
+                         "Lindsay Bluth",
+                         "White Power Bill",
+                         "Stan Sitwell",
+                         "Maybe Funke",
+                         "Lucille Austero"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
+                         "Johnny Bark",
+                         "Lindsay Bluth",
+                         "White Power Bill",
+                         "Stan Sitwell",
+                         "Maybe Funke",
+                         "Lucille Austero"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, who was blocking construction for the Bluth Company?": [
+                         "Johnny Bark",
+                         "Lindsay Bluth",
+                         "White Power Bill",
+                         "Stan Sitwell",
+                         "Maybe Funke",
+                         "Lucille Austero"
+                     ]
+                 }
 ];
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
@@ -383,7 +177,7 @@ function onSessionEnded(sessionEndedRequest, session) {
 
 // ------- Skill specific business logic -------
 
-var ANSWER_COUNT = 4;
+var ANSWER_COUNT = 3;
 var GAME_LENGTH = 5;
 var CARD_TITLE = "Trivia"; // Be sure to change this for your skill.
 
@@ -514,18 +308,29 @@ function handleAnswerRequest(intent, session, callback) {
 
         if (answerSlotValid && parseInt(intent.slots.Answer.value) == correctAnswerIndex) {
             currentScore++;
-            speechOutputAnalysis = "correct. ";
+            speechOutputAnalysis = "That answer is correct. ";
         } else {
             if (!userGaveUp) {
-                speechOutputAnalysis = "wrong. "
+                speechOutputAnalysis = "You've made a huge mistake. "
             }
             speechOutputAnalysis += "The correct answer is " + correctAnswerIndex + ": " + correctAnswerText + ". ";
         }
         // if currentQuestionIndex is 4, we've reached 5 questions (zero-indexed) and can exit the game session
         if (currentQuestionIndex == GAME_LENGTH - 1) {
-            speechOutput = userGaveUp ? "" : "That answer is ";
-            speechOutput += speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
-                + GAME_LENGTH.toString() + " questions correct. Thank you for playing!";
+        	var grade = currentScore / GAME_LENGTH;
+            speechOutput = userGaveUp ? "" : speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
+                    + GAME_LENGTH.toString() + " questions correct. ";
+        	if(grade == 0) {
+        		speechOutput += "You've fluctuated in your learning.";
+        	} else if(grade <= 0.33) {
+        		speechOutput += "Your grade is a D minus. At least it's above a D, right?";
+        	} else if(grade <= 0.67) {
+        		speechOutput += "Your grade is an Elvis head.";
+        	} else if(grade <= 0.999) {
+        		speechOutput += "Your grade is a crocodile.";
+        	} else {
+        		speechOutput += "An A gets you ice cream.";
+        	}
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
         } else {
@@ -540,8 +345,7 @@ function handleAnswerRequest(intent, session, callback) {
             for (var i = 0; i < ANSWER_COUNT; i++) {
                 repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
             }
-            speechOutput += userGaveUp ? "" : "That answer is ";
-            speechOutput += speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
+            speechOutput = userGaveUp ? "" : speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
 
             sessionAttributes = {
                 "speechOutput": repromptText,
@@ -585,7 +389,7 @@ function handleGetHelpRequest(intent, session, callback) {
     // Do not edit the help dialogue. This has been created by the Alexa team to demonstrate best practices.
 
     var speechOutput = "I will ask you " + GAME_LENGTH + " multiple choice questions. Respond with the number of the answer. "
-        + "For example, say one, two, three, or four. To start a new game at any time, say, start game. "
+        + "For example, say one, two, or three. To start a new game at any time, say, start game. "
         + "To repeat the last question, say, repeat. "
         + "Would you like to keep playing?",
         repromptText = "To give an answer to a question, respond with the number of the answer . "
