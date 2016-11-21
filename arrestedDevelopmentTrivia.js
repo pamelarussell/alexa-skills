@@ -11,7 +11,7 @@ var questions = [
                          "November two thousand three",
                          "October two thousand two",
                          "April two thousand four",
-                         "September two thousand three",
+                         "September two thousand two",
                          "November two thousand one",
                          "April two thousand five"
                      ]
@@ -29,14 +29,15 @@ var questions = [
                  {
                      "Which of the following is NOT a way Maybe has rebelled against her parents?": [
                          "Getting a tattoo",
-                         "Threatening to enter beauty <phoneme alphabet=\"ipa\" ph=\"pæd͡ʒɛnts\">pagents</phoneme>",
-                         "Threatening to run away",
+                         "Threatening to enter beauty pageants",
+                         "Being pro-leather",
                          "Kissing her cousin",
-                         "Becoming a movie producer"
+                         "Becoming a movie producer",
+                         "Threatening to escape to Portugal"
                      ]
                  },
                  {
-                     "In the season one episode Top Banana, who burned down the storage unit containing the Bluth company flight records?": [
+                     "In the season one episode Top Banana, who burns down the storage unit containing the Bluth company flight records?": [
                          "T Bone",
                          "Lucille Bluth",
                          "George Bluth",
@@ -64,6 +65,263 @@ var questions = [
                          "The Aztec Tomb",
                          "Making the yacht disappear",
                          "Live mice"
+                     ]
+                 },
+                 {
+                     "In the season one episode Bringing Up Buster, which play does Maybe audition for to get a chance to kiss Steve Holt?": [
+                         "Much Ado About Nothing",
+                         "Our Town",
+                         "Singing In The Rain",
+                         "A Midsummer Night's Dream",
+                         "Death Of A Salesman",
+                         "King Lear"
+                     ]
+                 },
+                 {
+                     "In the season one episode Bringing Up Buster, what does Michael use to try to get closer to George Michael?": [
+                         "A new bicycle",
+                         "A trip to Phoenix",
+                         "A trip to Legoland",
+                         "A job in the banana stand",
+                         "A trip to the cabin",
+                         "An internship in the Bluth Company office"
+                     ]
+                 },
+                 {
+                     "Which celebrity appears in the infomercial for the Cornballer?": [
+                         "Richard Simmons",
+                         "Billy Mays",
+                         "Bob Ross",
+                         "Kathy Lee Gifford",
+                         "Ron Howard",
+                         "Steve Irwin"
+                     ]
+                 },
+                 {
+                     "Which of the following is NOT the name of a news reporter?": [
+                         "Chris Tomer",
+                         "John Beard",
+                         "Trisha Thoon"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, which example of Lindsay's hypocrisy does Michael point out?": [
+                         "Ostrich skin boots",
+                         "Killing a frog in the wetlands",
+                         "Wanting a nicer car",
+                         "A shopping spree",
+                         "Mink coat",
+                         "Leather briefcase"
+                     ]
+                 },
+                 {
+                     "In the season one episode Key Decisions, what is Michael holding when he and Marta are talking on top of the stair car after the Desi awards?": [
+                         "A cup from In N Out Burger",
+                         "A bottle in a brown paper bag",
+                         "A dead dove",
+                         "A taco",
+                         "A paddleball",
+                         "A bicycle helmet"
+                     ]
+                 },
+                 {
+                     "The banana stand mascot, mister banana grabber, resembles which character?": [
+                         "Jobe Bluth",
+                         "Mister Manager",
+                         "Buster Bluth",
+                         "George Bluth",
+                         "Barry Zuckerkorn",
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
+                     ]
+                 },
+                 {
+                     "In the season one episode Charity Drive, how much money does Buster bid on the wrong Lucille at the charity auction?": [
+                         "Ten thousand dollars",
+                         "One thousand dollars",
+                         "Five thousand dollars",
+                         "Fifteen thousand dollars",
+                         "Seven thousand dollars",
+                         "Five hundred dollars"
+                     ]
+                 },
+                 {
+                     "In the season one episode Charity Drive, how does Jobe blow his cover when breaking into the permit office to misfile the building permits?": [
+                         "Whistles due to a chipped tooth",
+                         "Releases a <phoneme alphabet=\"ipa\" ph=\"laɪv\">Live</phoneme> dove",
+                         "Releases a box of mice",
+                         "Sprays lighter fluid",
+                         "Crashes his segway"
+                     ]
+                 },
+                 {
+                     "In the season one episode Visiting Ours, why is George preoccupied when Michael visits him in prison to ask about the location of some international files?": [
+                         "A softball game",
+                         "A visit from Kitty",
+                         "Starting a religion within the prison",
+                         "An ice cream sandwich",
+                         "Tobias being in prison",
+                         "Buster being too coddled"
+                     ]
+                 },
+                 {
+                     "In the season one episode Visiting Ours, Tobias and the marriage therapist can be heard discussing the cast of which show during their therapy session?": [
+                         "Friends",
+                         "The O C",
+                         "Happy Days",
+                         "Frasier",
+                         "My So Called Life",
+                         "Sixty Minutes"
+                     ]
+                 },
+                 {
+                     "In the season one episode Visiting Ours, why does Jobe write a strongly worded letter to the prison warden?": [
+                         "A disagreement about the success of his prison breakout stunt",
+                         "Not being allowed to perform at the prison",
+                         "Having equipment stolen during a visit to George Bluth",
+                         "A meeting with George Bluth being cut short",
+                         "Not being allowed to bring his segway into the visiting room",
+                         "Not being allowed to bring lighter fluid into the prison"
+                     ]
+                 },
+                 {
+                     "Season one included how many episodes?": [
+                         "Twenty two",
+                         "Thirteen",
+                         "Eighteen",
+                         "Fifteen",
+                         "Twenty four",
+                         "Twenty six"
+                     ]
+                 },
+                 {
+                     "Season two included how many episodes?": [
+                         "Eighteen",
+                         "Thirteen",
+                         "Fifteen",
+                         "Twenty two",
+                         "Twenty four",
+                         "Twenty six"
+                     ]
+                 },
+                 {
+                     "Season three included how many episodes?": [
+                         "Thirteen",
+                         "Fifteen",
+                         "Eighteen",
+                         "Twenty two",
+                         "Twenty four",
+                         "Twenty six"
+                     ]
+                 },
+                 {
+                     "Season four included how many episodes?": [
+                         "Fifteen",
+                         "Thirteen",
+                         "Eighteen",
+                         "Twenty two",
+                         "Twenty four",
+                         "Twenty six"
+                     ]
+                 },
+                 {
+                     "The full series included how many total episodes?": [
+                         "Sixty eight",
+                         "Fifty three",
+                         "Seventy two",
+                         "Eighty four",
+                         "Seventy six",
+                         "Eighty six"
+                     ]
+                 },
+                 {
+                     "In the season one episode In God We Trust, who is Lucille's date to the Living Classics pageant?": [
+                         "Wayne Jarvis",
+                         "Oscar Bluth",
+                         "Stephen Gentles",
+                         "Tom Jain",
+                         "George Bluth",
+                         "Buster Bluth"
+                     ]
+                 },
+                 {
+                     "What is the true location of Portugal?": [
+                         "Europe",
+                         "South America",
+                         "Central America",
+                         "Arizona",
+                         "The Caribbean",
+                         "Indonesia"
+                     ]
+                 },
+                 {
+                     "In the season one episode In God We Trust, why does Buster have a panic attack at the Living Classics pageant?": [
+                         "He assumes the crowd is booing his relationship with Lucille Austero",
+                         "He is afraid to play Adam",
+                         "He is not allowed to wear cutoffs in the pageant",
+                         "He feels he is too old to perform in the pageant",
+                         "George Michael and Tobias fight over Buster's role of Adam",
+                         "He sees his mother Lucille on a date with Wayne Jarvis"
+                     ]
+                 },
+                 {
+                     "What is the name of the apartment complex where Lucille lives in a penthouse?": [
+                         "Balboa Towers",
+                         "Sudden Valley",
+                         "Paradise Gardens",
+                         "Singles City",
+                         "Seaside Village",
+                         "Brookfeather"
+                     ]
+                 },
+                 {
+                     "In the season one episode My Mother the Car, how does Buster sustain an injury?": [
+                         "Leaping through a plate glass window",
+                         "Falling off a balcony",
+                         "Falling off a segway",
+                         "Getting bitten by a seal",
+                         "Hurting his back doing construction work",
+                         "Running from Lucille"
+                     ]
+                 },
+                 {
+                     "Which fictional Fox show features footage of Lucille Bluth?": [
+                         "World's Worst Drivers",
+                         "World's Wildest Police Videos",
+                         "When Animals Attack",
+                         "Worst Parents in America",
+                         "Penthouse Stories",
+                         "How the Other Half Lives",
+                         "Real Estate Nightmares"
+                     ]
+                 },
+                 {
+                     "In the season one episode Storming the Castle, what does Jobe say to Michael as he steals Micheal's watch?": [
+                         "I appreciate your time",
+                         "What kind of threats?",
+                         "He doesn’t want to break my legs. He wants to take my legs",
+                         "You’re a good brother, Michael",
+                         "I want you to have it",
+                         "I want to try to be a better brother. Like you are to me"
+                     ]
+                 },
+                 {
+                     "In which episode did George Bluth convert to Judaism?": [
+                         "Season one, episode nine: Storming the Castle",
+                         "Season one, episode seventeen: Justice is Blind",
+                         "Season one, episode fifteen: Staff Infection",
+                         "Season two, episode four: Good Grief",
+                         "Season two, episode five: Sad Sack",
+                         "Season two, episode seven: Switch Hitter"
+                     ]
+                 },
+                 {
+                     "In the season one episode Storming the Castle, why is George Bluth supportive of Buster's relationship with Lucille Austero?": [
+                         "His recent conversion to Judaism",
+                         "His desire to get revenge on Lucille Bluth",
+                         "His desire to keep his other sons away from Lucille Austero",
+                         "His plan to use Lucille Austero's resources after escaping from prison",
+                         "Lucille Austero's ability to bring down Sitwell Enterprises",
+                         "His desire to distract Buster from monopolizing Lucille Bluth's time"
                      ]
                  }
 ];
@@ -105,13 +363,6 @@ var questions = [
  */
 
 /* To do list
-S1E3
-S1E4
-S1E5
-S1E6
-S1E7
-S1E8
-S1E9
 S1E10
 S1E11
 S1E12
@@ -171,6 +422,8 @@ S4E12
 S4E13
 S4E14
 S4E15
+Series misc
+Character/actor misc
  */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
