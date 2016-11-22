@@ -323,6 +323,64 @@ var questions = [
                          "Lucille Austero's ability to bring down Sitwell Enterprises",
                          "His desire to distract Buster from monopolizing Lucille Bluth's time"
                      ]
+                 },
+                 {
+                     "In the season one episode Pier Pressure, how does Lindsay punish Maybe for getting bad grades?": [
+                         "Makes her spend a day with Lucille Bluth",
+                         "Makes her spend spring break working at the Bluth Company",
+                         "Makes her work for a day in the banana stand",
+                         "Makes her attend a charity banquet",
+                         "Makes her shadow Michael Bluth for a day"
+                     ]
+                 },
+                 {
+                     "In the season one episode Pier Pressure, why does the fake Hot Cops drug bust fail to fool George Michael?": [
+                         "One of the Hot Cops is his choir teacher",
+                         "He is working overtime in the banana stand at the time",
+                         "Jobe has told him about the plot",
+                         "One of the Hot Cops' breakaway uniforms comes open",
+                         "One of the Hot Cops hits on him"
+                     ]
+                 },
+                 {
+                     "In the season one episode Pier Pressure, what spelling mistake does Maybe make?": [
+                         "She spells minus, <say-as interpret-as=\"spell-out\">mines</say-as>",
+                         "She spells banana, <say-as interpret-as=\"spell-out\">bananana</say-as>",
+                         "She spells note, <say-as interpret-as=\"spell-out\">noat</say-as>",
+                         "She spells Jobe without the periods",
+                         "She spells Hot Cops, <say-as interpret-as=\"spell-out\">hotkops</say-as>",
+                         "She spells Bluth, <say-as interpret-as=\"spell-out\">blooth</say-as>"
+                     ]
+                 },
+                 {
+                     "In the season one episode Public Relations, why is George Michael rejected from admission to the Milford School?": [
+                         "The Bluth family's recent brawl at a Klimpy's restaurant",
+                         "He speaks during the interview",
+                         "Michael speaks during the interview",
+                         "The Bluth family is in the news for building houses in Iraq",
+                         "George Senior has called the school to oppose George Michael's admission on religious grounds",
+                         "The admissions officer wants to keep his relationship with Lucille Bluth a secret"
+                     ]
+                 },
+                 {
+                     "What is the name of the publicist Michael hires for the Bluth Family in Season One?": [
+                         "Jessie Bowers",
+                         "Sandy Uber",
+                         "Luisa Velez",
+                         "Jan Eagleman",
+                         "Ophelia Love",
+                         "Beth Barely"
+                     ]
+                 },
+                 {
+                     "Where did Tobias first meet Carl Weathers?": [
+                         "In an airport shuttle",
+                         "In a method acting class",
+                         "At the prison",
+                         "At Burger King",
+                         "At Klimpy's restaurant",
+                         "At a police auction"
+                     ]
                  }
 ];
 
@@ -363,8 +421,6 @@ var questions = [
  */
 
 /* To do list
-S1E10
-S1E11
 S1E12
 S1E13
 S1E14
