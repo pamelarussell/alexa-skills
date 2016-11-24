@@ -1,0 +1,18 @@
+#!/bin/bash
+
+cat questions.JSON | \
+ perl -pi -e 's/{//g' | \
+ perl -pi -e 's/://g' | \
+ perl -pi -e 's/\\\"/FORWARD_SLASH_DOUBLE_QUOTE/g' | \
+ perl -pi -e 's/\"//g' | \
+ perl -pi -e 's/FORWARD_SLASH_DOUBLE_QUOTE/\\\"/g' | \
+ perl -pi -e 's/}//g' | \
+ perl -pi -e 's/\[//g' | \
+ perl -pi -e 's/\]//g' | \
+ perl -pi -e 's/,//g' | \
+ perl -pi -e 's/                         / /g' | \
+ perl -pi -e 's/                     / /g' | \
+ awk 'BEGIN {str=""; nr=0} NF > 0 {nr = nr+1; str = str $0 " <break time=\"1s\"/>"} nr % 20 == 0 {print str "\n\n"; nr=0; str=""}' > voice_simulator_test.txt
+
+
+
