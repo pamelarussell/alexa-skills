@@ -373,13 +373,372 @@ var questions = [
                      ]
                  },
                  {
-                     "Where did Tobias first meet Carl Weathers?": [
+                     "Where does Tobias first meet Carl Weathers?": [
                          "In an airport shuttle",
                          "In a method acting class",
                          "At the prison",
                          "At Burger King",
                          "At Klimpy's restaurant",
                          "At a police auction"
+                     ]
+                 },
+                 {
+                     "In the season one episode Marta Complex, what gift does Marta buy for Michael?": [
+                         "A suit",
+                         "A set of cufflinks",
+                         "A watch",
+                         "A dozen roses",
+                         "A bottle of scotch",
+                         "A bottle of wine"
+                     ]
+                 },
+                 {
+                     "In the season one episode Marta Complex, who does Lucille Austero begin dating instead of Buster?": [
+                         "Carl Weathers",
+                         "Warden Gentles",
+                         "Michael Bluth",
+                         "Wayne Jarvis",
+                         "Bob Loblaw",
+                         "Herbert Love"
+                     ]
+                 },
+                 {
+                     "In the season one episode Marta Complex, what recipe does Carl Weathers describe to Tobias?": [
+                         "Stew",
+                         "Bloody Mary",
+                         "Pancakes",
+                         "Pecan pie",
+                         "Grilled cheese",
+                         "Oatmeal"
+                     ]
+                 },
+                 {
+                     "What is the name of Marta's fictional brother on El Amor Prohibido?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"tioʊ\">Tio</phoneme",
+                         "<phoneme alphabet=\"ipa\" ph=\"eɪɹmɑnoʊ\">Hermano</phoneme",
+                         "<phoneme alphabet=\"ipa\" ph=\"ihoʊ\">Hijo</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"ɑbweɪloʊ\">Abuelo</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"soʊbrinoʊ\">Sobrino</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"nieɪtoʊ\">Nieto</phoneme>"
+                     ]
+                 },
+                 {
+                     "How many episodes was the series originally picked up for by Fox?": [
+                         "Thirteen",
+                         "Twenty two",
+                         "Eighteen",
+                         "Fifteen",
+                         "Ten",
+                         "Eight"
+                     ]
+                 },
+                 {
+                     "In the season one episode Beef Consomme, how does Buster attempt to impress Marta?": [
+                         "Hiring a mariachi band",
+                         "Serenading her outside her window",
+                         "Getting in a fight with Jobe",
+                         "Declaring his love for her in front of Lucille",
+                         "Entering a charity date auction",
+                         "Playing Adam in the Living Classics Pageant"
+                     ]
+                 },
+                 {
+                     "What is the name of George Michael's ethics teacher?": [
+                         "Beth Barely",
+                         "Rita Leeds",
+                         "Jessie Bowers",
+                         "Ophelia Love",
+                         "Edna Whitehead",
+                         "Jan Eagleman"
+                     ]
+                 },
+                 {
+                     "What was the name of Michael and Jobe's high school civics teacher?": [
+                         "Edna Whitehead",
+                         "Beth Barely",
+                         "Rita Leeds",
+                         "Jessie Bowers",
+                         "Ophelia Love",
+                         "Jan Eagleman"
+                     ]
+                 },
+                 {
+                     "In the season one episode Shock and Aww, what is the name of Jobe's girlfriend who dumps him at the diversity dance?": [
+                         "Shannon",
+                         "Ophelia",
+                         "Beth",
+                         "Marta",
+                         "Tonya",
+                         "Sydney"
+                     ]
+                 },
+                 {
+                     "In the season one episode Shock and Aww, who does Maybe bring as her date to the diversity dance?": [
+                         "Annyong Bluth",
+                         "George Michael Bluth",
+                         "Steve Holt",
+                         "Paul Huan",
+                         "Mort Myers",
+                         "Marky Bark"
+                     ]
+                 },
+                 {
+                     "In the season one episode Staff Infection, which actor is said to be researching a role at the prison?": [
+                         "Steve Bushemi",
+                         "Jake Jillenhall",
+                         "James Franco",
+                         "Carl Weathers",
+                         "Brian Cranston",
+                         "Zach Braff"
+                     ]
+                 },
+                 {
+                     "What is the make of the stair car?": [
+                         "Ford",
+                         "Chevrolet",
+                         "Daihatsu",
+                         "<say-as interpret-as=\"spell-out\">GMC</say-as>",
+                         "Great Wall",
+                         "Dodge"
+                     ]
+                 },
+                 {
+                     "Which guest star had David Cross publicly mocked in his stand up comedy act before they appeared on the show?": [
+                         "James Lipton",
+                         "Henry Winkler",
+                         "John Beard",
+                         "Jeff Garlin",
+                         "Ed Begley Junior",
+                         "Ben Stiller"
+                     ]
+                 },
+                 {
+                     "How does Cindy Lightballoon spell her first name?": [
+                         "<say-as interpret-as=\"spell-out\">Cindi</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Cindee</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Sindy</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Sindi</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Sin-dee</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Sindee</say-as>"
+                     ]
+                 },
+                 {
+                     "In the season one episode Altar Egos, how much money does Maybe give George Michael to do her homework instead of tutoring her?": [
+                         "One hundred twenty dollars",
+                         "One hundred dollars",
+                         "Eighty dollars",
+                         "Sixty dollars"
+                     ]
+                 },
+                 {
+                     "Which drug did Doctor <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪz\">Funke's</phoneme> one hundred percent natural good time family band solution never have a relationship with?": [
+                         "Sanidex",
+                         "Teamocil",
+                         "Zanotab",
+                         "Euphorazeen"
+                     ]
+                 },
+                 {
+                     "Which position does Surely <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme> roll for?": [
+                         "Student council treasurer",
+                         "Student body president",
+                         "Student council vice president",
+                         "Student activities coordinator",
+                         "Student council secretary",
+                         "Student council chaplain"
+                     ]
+                 },
+                 {
+                     "In the season one episode Justice is Blind, which of the following is NOT a way the characters misquoted the ten commandments?": [
+                         "As you seek so shall you find thyself",
+                         "Thou shalt protect thy father, and honor no one above him unless it <phoneme alphabet=\"ipa\" ph=\"biɪθ\">beith</phoneme> me: thy sweet Lord.",
+                         "Be true to thine own self, and to thine own self be true"
+                     ]
+                 },
+                 {
+                     "In the season one episode Justice is Blind, whose face is crossed out on the chart in the interrogation room?": [
+                         "Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>",
+                         "Kitty Sanchez",
+                         "Ann Veal",
+                         "Jobe's wife",
+                         "Beth Barely",
+                         "Surely <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
+                     ]
+                 },
+                 {
+                     "Which fictional network is a parody of <say-as interpret-as=\"spell-out\">MTV</say-as>?": [
+                         "<say-as interpret-as=\"spell-out\">YOM</say-as>",
+                         "<say-as interpret-as=\"spell-out\">YTV</say-as>",
+                         "<say-as interpret-as=\"spell-out\">MOTV</say-as>",
+                         "<say-as interpret-as=\"spell-out\">GLS</say-as>",
+                         "<say-as interpret-as=\"spell-out\">TTV</say-as>",
+                         "<say-as interpret-as=\"spell-out\">M1S</say-as>"
+                     ]
+                 },
+                 {
+                     "In the season one episode Missing Kitty, what is Warden Gentles' advice to Tobias?": [
+                         "To learn real fear from White Power Bill",
+                         "To use his therapist skills to reveal the real source of White Power Bill's hatred",
+                         "To become the Dorothy of the prison",
+                         "To realize that the real source of fear is anger",
+                         "To learn why George Bluth really hates him"
+                     ]
+                 },
+                 {
+                     "In the season one episode Missing Kitty, where did Lucille Bluth hide the inheritance from her mother?": [
+                         "In a trust fund for Annyong",
+                         "In the banana stand",
+                         "In the Bluth company's Iraqi holding corporation",
+                         "In Bluth company stock",
+                         "In Annyong's pocket",
+                         "In her purse"
+                     ]
+                 },
+                 {
+                     "In the season one episode Best Man for the Jobe, who does Jobe's wife fall in love with?": [
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Ira Gilligan",
+                         "Wayne Jarvis",
+                         "George Bluth",
+                         "Stan Sitwell",
+                         "Marky Bark"
+                     ]
+                 },
+                 {
+                     "Which of the following does Lucille Bluth consider to be one of her favorite brands?": [
+                         "Cloudmir",
+                         "Teamocil",
+                         "<say-as interpret-as=\"spell-out\">YOM</say-as>"
+                     ]
+                 },
+                 {
+                     "In the season one episode Best Man for the Jobe, who is NOT in attendance at Jobe's bachelor party?": [
+                         "George Michael Bluth",
+                         "The hot cops",
+                         "Ira Gilligan",
+                         "Michael Bluth",
+                         "Buster Bluth",
+                         "Jobe Bluth"
+                     ]
+                 },
+                 {
+                     "In the season one episode Whistler's Mother, which song does Lindsay dance to while protesting the war in the free speech zone?": [
+                         "Bad girls",
+                         "All you need is smiles",
+                         "The show's theme music",
+                         "The final countdown",
+                         "Vogue",
+                         "Big yellow joint"
+                     ]
+                 },
+                 {
+                     "In the season one episode Whistler's Mother, why does Lindsay decide to protest the war?": [
+                         "Her hair stylist has been called to war",
+                         "The war has led to a freeze on the Bluth Company's assets",
+                         "The war has led to a fur embargo",
+                         "It will be easier than getting the ten commandments removed from the courthouse",
+                         "To get closer to Marky Bark",
+                         "To be a role model for Maybe"
+                     ]
+                 },
+                 {
+                     "In the season one episode Whistler's Mother, why is Michael's purchase of Oscar's lemon grove a mistake?": [
+                         "The government has an easement on the land",
+                         "The land is actually in Mexico",
+                         "A wall is being built through the land",
+                         "A colony of hippies is living on the land",
+                         "The purchase is made with frozen Bluth Company assets",
+                         "It is actually George who takes the money for the land"
+                     ]
+                 },
+                 {
+                     "In the season one episode Not Without My Daughter, which group goes to the mall to prove that they are manly?": [
+                         "Tobias, George Michael, and Jobe",
+                         "Jobe, George Michael, and Steve Holt",
+                         "Steve Holt, Jobe, and Michael",
+                         "Buster, Annyong, and Jobe",
+                         "Annyong, Buster, and Oscar",
+                         "Tobias, Buster, and George Michael"
+                     ]
+                 },
+                 {
+                     "Fill in the blank: say what you will about America. Blank bucks still gets you a hell of a lot of mice.": [
+                         "Thirteen",
+                         "Fourteen",
+                         "Sixteen",
+                         "Eighteen",
+                         "Twelve",
+                         "Nineteen"
+                     ]
+                 },
+                 {
+                     "In the season one episode Not Without My Daughter, why does Lindsay pretend to be a shoplifter?": [
+                         "To conceal the fact that she has a job at the mall",
+                         "To show George Michael that she's a cool aunt",
+                         "To distract attention from her father's upcoming trial",
+                         "To impress Steve Holt",
+                         "To hide the fact that she used company money to buy expensive outfits",
+                         "To have an excuse to talk to Officer Carter"
+                     ]
+                 },
+                 {
+                     "In the season one finale Let Em Eat Cake, what information does Kitty try to use to blackmail Michael?": [
+                         "The Bluth Company has unpaid back taxes",
+                         "George Bluth has been found in Mexico",
+                         "Kitty was on the yacht when Jobe blew it up",
+                         "The Bluth Company is not OSHA compliant",
+                         "Sitwell Industries is attempting to learn Bluth Company secrets from Kitty",
+                         "Kitty saw Michael on a date with prosecutor Maggie Lizer"
+                     ]
+                 },
+                 {
+                     "What is the name of the literal doctor played by Ian Roberts?": [
+                         "Doctor Fishman",
+                         "Doctor Rogan",
+                         "Doctor Whitman",
+                         "Doctor Hemingway",
+                         "Doctor Thomas",
+                         "Doctor Litt"
+                     ]
+                 },
+                 {
+                     "Which of the following has NOT been one of Doctor Fishman's patients?": [
+                         "Jobe Bluth",
+                         "George Bluth",
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Lindsay Bluth",
+                         "Buster Bluth",
+                         "Michael Bluth"
+                     ]
+                 },
+                 {
+                     "How many episodes did Oscar Bluth appear in?": [
+                         "Twenty six",
+                         "Thirteen",
+                         "Thirty four",
+                         "Twenty two",
+                         "Eighteen",
+                         "Twenty"
+                     ]
+                 },
+                 {
+                     "In which month did the first episode of season two air?": [
+                         "November two thousand four",
+                         "November two thousand three",
+                         "September two thousand four",
+                         "September two thousand three",
+                         "November two thousand five",
+                         "September two thousand five"
+                     ]
+                 },
+                 {
+                     "In the season two premier The One Where Michael Leaves, who runs over Tobias with their car?": [
+                         "Barry Zuckerkorn",
+                         "Jobe Bluth",
+                         "Lucille Bluth",
+                         "Oscar Bluth",
+                         "Officer Taylor",
+                         "George Bluth"
                      ]
                  }
 ];
@@ -421,18 +780,6 @@ var questions = [
  */
 
 /* To do list
-S1E12
-S1E13
-S1E14
-S1E15
-S1E16
-S1E17
-S1E18
-S1E19
-S1E20
-S1E21
-S1E22
-S2E1
 S2E2
 S2E3
 S2E4
@@ -746,10 +1093,12 @@ function handleAnswerRequest(intent, session, callback) {
                     + GAME_LENGTH.toString() + " questions correct. ";
         	if(grade == 0) {
         		speechOutput += "You've fluctuated in your learning.";
-        	} else if(grade <= 0.33) {
+        	} else if(grade <= 0.25) {
         		speechOutput += "Your grade is a D minus. At least it's above a D, right?";
-        	} else if(grade <= 0.67) {
+        	} else if(grade <= 0.50) {
         		speechOutput += "Your grade is an Elvis head.";
+        	} else if(grade <= 0.75) {
+        		speechOutput += "Your grade is a jack in the box.";
         	} else if(grade <= 0.999) {
         		speechOutput += "Your grade is a crocodile.";
         	} else {
