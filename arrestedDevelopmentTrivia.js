@@ -694,10 +694,10 @@ var questions = [
                  {
                      "What is the name of the literal doctor played by Ian Roberts?": [
                          "Doctor Fishman",
-                         "Doctor Rogan",
+                         "Doctor Hartman",
                          "Doctor Whitman",
                          "Doctor Hemingway",
-                         "Doctor Thomas",
+                         "Doctor <phoneme alphabet=\"ipa\" ph=\"spət͡ʃɛmɛn\">Spaceman</phoneme>",
                          "Doctor Litt"
                      ]
                  },
@@ -740,6 +740,199 @@ var questions = [
                          "Officer Taylor",
                          "George Bluth"
                      ]
+                 },
+                 {
+                     "In the season two episode The One Where They Build A House, which group does Michael employ to build the fake model home?": [
+                         "Oscar Bluth, George Michael Bluth, Buster Bluth, and Tom Jane",
+                         "Buster Bluth, Oscar Bluth, and Jobe Bluth",
+                         "George Michael Bluth, Buster Bluth, Oscar Bluth, and Marky Bark",
+                         "Buster Bluth, Oscar Bluth, and Annyong Bluth",
+                         "Oscar Bluth, Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>, George Michael Bluth, and Tom Jane",
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>, Jobe Bluth, Oscar Bluth, and George Michael Bluth"
+                     ]
+                 },
+                 {
+                     "In the season two episode The One Where They Build A House, which children's game is referenced at the ribbon cutting ceremony for the fake model home?": [
+                         "Rock, paper, scissors",
+                         "Cat's cradle",
+                         "Cops and robbers",
+                         "Dodgeball",
+                         "Duck, duck, goose",
+                         "Hungry Hungry Hippos"
+                     ]
+                 },
+                 {
+                     "Fill in the blank in this quotation from Buster: I don't agree with your blank here, but I will defend with my life your right to do it.": [
+                         "Dirty doings",
+                         "Seal dealing",
+                         "Sneaky selling",
+                         "Filthy blackmail",
+                         "Chicken dance"
+                     ]
+                 },
+                 {
+                     "In the season two episode Amigos, where is Michael's office while Jobe acts as Bluth Company president to appease the stockholders?": [
+                         "A supply closet",
+                         "The stair car",
+                         "The Mercedes",
+                         "The model home attic",
+                         "North Roast Coffee",
+                         "The banana stand"
+                     ]
+                 },
+                 {
+                     "In the season two episode Amigos, which character is tackled more than once?": [
+                         "Michael Bluth",
+                         "Oscar Bluth",
+                         "Gobe Bluth",
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "George Bluth"
+                     ]
+                 },
+                 {
+                     "Which of the following is NOT a motivational poster at the Bluth Company office?": [
+                         "Think before you speak",
+                         "Don't be afraid to make a mistake",
+                         "Never give up",
+                         "Keep an open mind"
+                     ]
+                 },
+                 {
+                     "In the season two episode Good Grief, why does Jobe perform an elaborate illusion at George's wake?": [
+                         "To make the cover of Poof Magazine",
+                         "To prevent Buster from realizing it's a wake",
+                         "To turn the wake into a wedding between himself and Anne",
+                         "To give George a chance to escape into the attic"
+                     ]
+                 },
+                 {
+                     "In the season two episode Good Grief, why does Maybe try to set Lindsay up with the bounty hunter Ice?": [
+                         "To build a case for emancipation from her parents",
+                         "To distract Lindsay from her relationship with Steve Holt",
+                         "To distract Lindsay as she prepares to run away",
+                         "To secure Ice's catering services for her movie set",
+                         "To prevent Ice from discovering her secret life as a movie producer"
+                     ]
+                 },
+                 {
+                     "Which two actors portray Ann Veal?": [
+                         "Alessandra Torresani and Mae Whitman",
+                         "Isla Fisher and Leonor Varela",
+                         "Bronwen Masters and Mo Collins",
+                         "Mae Whitman and Isla Fisher",
+                         "Mo Collins and Mae Whitman",
+                         "Leonor Varela and Alessandra Torresani"
+                     ]
+                 },
+                 {
+                     "In the season two episode Sad Sack, why does Lindsay start spending more time with Maybe?": [
+                         "To get closer to Steve Holt",
+                         "To win her allegiance as she and Tobias prepare to split up",
+                         "To keep Maybe from aligning herself with Lucille",
+                         "To show James Carr that she's young",
+                         "To have an excuse to talk to Ice"
+                     ]
+                 },
+                 {
+                     "In the season two episode Sad Sack, what is former Bluth Company attorney Wayne Jarvis' new job?": [
+                         "Prosecutor",
+                         "District attorney",
+                         "Attorney for Lucille Austero",
+                         "<say-as interpret-as=\"spell-out\">SEC</say-as> director",
+                         "Army sergeant",
+                         "Private investigator"
+                     ]
+                 },
+                 {
+                     "How many times did Jobe try to microwave a ding dong while it was still in its foil?": [
+                         "Two",
+                         "Three",
+                         "Four"
+                     ]
+                 },
+                 {
+                     "In the season two episode Afternoon Delight, which of the following is never claimed as the price of Jobe's suit?": [
+                         "Sixteen hundred dollars",
+                         "Three thousand dollars",
+                         "Four thousand dollars",
+                         "Five thousand dollars",
+                         "Sixty three hundred dollars",
+                         "Seven thousand dollars",
+                         "Thirty six hundred dollars"
+                     ]
+                 },
+                 {
+                     "In the season two episode Afternoon Delight, which holiday tradition do Michael and George Michael participate in?": [
+                         "Rebuilding the banana stand after it has been vandalized",
+                         "George Michael driving the car to the Bluth Company holiday party",
+                         "Wearing matching outfits to the Living Classics pageant",
+                         "Moving Lucille's vodka from the banana stand to her condo"
+                     ]
+                 },
+                 {
+                     "In the season two episode Afternoon Delight, which of the following duos DOES NOT perform karaoke at the Bluth Company holiday party?": [
+                         "Michael and George Michael",
+                         "Michael and Maybe",
+                         "Lindsay and George Michael"
+                     ]
+                 },
+                 {
+                     "What was the first episode to air in the year two thousand five?": [
+                         "Season two episode seven: Switch Hitter",
+                         "Season two episode eleven: Out on a Limb",
+                         "Season one episode twelve: Marta Complex",
+                         "Season one episode five: Charity Drive",
+                         "Season three episode five: Mister F",
+                         "Season three episode eight: Making a Stand"
+                     ]
+                 },
+                 {
+                     "In the season two episode Switch Hitter, which book does Maybe have a homework assignment on?": [
+                         "The Old Man and the Sea",
+                         "A Tale of Two Cities",
+                         "Pride and Prejudice",
+                         "The Sun Also Rises",
+                         "Catch Twenty Two",
+                         "Breakfast of Champions"
+                     ]
+                 },
+                 {
+                     "In the season two episode Switch Hitter, what fake holiday does Maybe invent to get out of going to school?": [
+                         "Help your dad follow his dreams day",
+                         "Bring your niece to work day",
+                         "Help your mother find a date day",
+                         "Shadow your cousin day"
+                     ]
+                 },
+                 {
+                     "Which actor portrays Stan Sitwell?": [
+                         "Ed Begley Junior",
+                         "Ian Roberts",
+                         "Dave Thomas",
+                         "John Michael Higgins",
+                         "Bob Glouberman",
+                         "J J Wall"
+                     ]
+                 },
+                 {
+                     "What is Barry Zuckerkorn's search engine of choice?": [
+                         "Ask Jeeves",
+                         "Bing",
+                         "Alta Vista",
+                         "Web Crawler",
+                         "Excite",
+                         "Lycos"
+                     ]
+                 },
+                 {
+                     "In the season two episode Queen for a Day, which professional sports team does Barry Zuckerkorn have a lawsuit against?": [
+                         "The Los Angeles Kings",
+                         "The Los Angeles Dodgers",
+                         "The Los Angeles Galaxy",
+                         "The Los Angeles Lakers",
+                         "The Anaheim Ducks",
+                         "The Los Angeles Clippers"
+                     ]
                  }
 ];
 
@@ -780,12 +973,6 @@ var questions = [
  */
 
 /* To do list
-S2E2
-S2E3
-S2E4
-S2E5
-S2E6
-S2E7
 S2E8
 S2E9
 S2E10
@@ -1098,11 +1285,11 @@ function handleAnswerRequest(intent, session, callback) {
         	} else if(grade <= 0.50) {
         		speechOutput += "Your grade is an Elvis head.";
         	} else if(grade <= 0.75) {
-        		speechOutput += "Your grade is a jack in the box.";
-        	} else if(grade <= 0.999) {
         		speechOutput += "Your grade is a crocodile.";
+        	} else if(grade <= 0.999) {
+        		speechOutput += "Your grade is an <say-as interpret-as=\"spell-out\">A</say-as> minus. An <say-as interpret-as=\"spell-out\">A</say-as> gets you ice cream. You know that.";
         	} else {
-        		speechOutput += "An A gets you ice cream.";
+        		speechOutput += "Incredible! You're having an incredible year.";
         	}
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
