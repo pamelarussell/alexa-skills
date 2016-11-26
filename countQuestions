@@ -1,0 +1,4 @@
+#!/bin/bash
+
+grep ": \[" arrestedDevelopmentTrivia.js | grep '[a-zA-Z]' | wc -l
+
