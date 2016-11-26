@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# This script generates a text file containing blocks of text that can be easily pasted into 
+# the Alexa Voice Simulator to test the speech rendering. All questions and answer choices are
+# included. This eliminates the need to play the game in order to hear the speech.
+
 cat questions.JSON | \
  perl -pi -e 's/{//g' | \
  perl -pi -e 's/://g' | \
