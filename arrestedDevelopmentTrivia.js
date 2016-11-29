@@ -2,8 +2,7 @@
 'use strict';
 
 /**
- * When editing your questions pay attention to your punctuation. Make sure you use question marks or periods.
- * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
+ * The first answer is the correct one
  */
 var questions = [
                  {
@@ -706,7 +705,7 @@ var questions = [
                          "Jobe Bluth",
                          "George Bluth",
                          "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
-                         "Lindsay Bluth",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Buster Bluth",
                          "Michael Bluth"
                      ]
@@ -933,6 +932,386 @@ var questions = [
                          "The Anaheim Ducks",
                          "The Los Angeles Clippers"
                      ]
+                 },
+                 {
+                     "In the season two episode Burning Love, what does Lucille Austero give Michael in exchange for his promise to bid on her at the charity auction?": [
+                         "Usage of her country club membership",
+                         "One percent of the Bluth Company",
+                         "Usage of her Corvette for his date with Sally Sitwell",
+                         "A promise not to testify against the Bluth Company"
+                     ]
+                 },
+                 {
+                     "What is the name of the fictional actor who plays the fictional character Frank Wrench?": [
+                         "Moses Taylor",
+                         "David Carter",
+                         "Emmett Richter",
+                         "Tom Jane",
+                         "Ed Helms",
+                         "Phillip Litt"
+                     ]
+                 },
+                 {
+                     "What happens shortly before George Michael and Ann share their first kiss?": [
+                         "They listen to the Jerky Boys",
+                         "George Michael gives Ann a tub of diamond cream",
+                         "George Michael bids on Ann in the charity auction",
+                         "Ann is found on a bench in Mexico",
+                         "Jobe leaves Ann at the altar",
+                         "George Michael watches a taping of Ann's father's <say-as interpret-as=\"spell-out\">TV</say-as> show"
+                     ]
+                 },
+                 {
+                     "Which of the following has never had romantic involvement with Lucille Austero?": [
+                         "George Bluth",
+                         "Oscar Bluth",
+                         "Michael Bluth",
+                         "Jobe Bluth",
+                         "Stan Sitwell",
+                         "Carl Weathers",
+                         "Buster Bluth"
+                     ]
+                 },
+                 {
+                     "Which season did Lucille Austero NOT appear in?": [
+                         "Season three",
+                         "Season one",
+                         "Season two",
+                         "Season four"
+                     ]
+                 },
+                 {
+                     "Which fictional character did the fictional Jack Dorso portray in the nineteen forties?": [
+                         "Bullet",
+                         "Red McGibbon",
+                         "Belvedere",
+                         "Willie Stark",
+                         "Sam Spade",
+                         "Bunko"
+                     ]
+                 },
+                 {
+                     "In the season two episode Out on a Limb, what do Lindsay and Tobias do to add excitement to their relationship?": [
+                         "Break into Maggie Lizer's house",
+                         "Start dating other people",
+                         "Develop a friendship with Debrie Bardoe and Marky Bark",
+                         "Sneak out of George Bluth's trial",
+                         "Plan a day to have marital relations"
+                     ]
+                 },
+                 {
+                     "In which episode is Buster's hand bitten off by a seal?": [
+                         "Season two, episode eleven: Out on a Limb",
+                         "Season two, episode twelve: Hand to God",
+                         "Season two, episode thirteen: Motherboy <say-as interpret-as=\"spell-out\">XXX</say-as>",
+                         "Season two, episode fifteen: Sword of Destiny",
+                         "Season two, episode seven: Switch Hitter",
+                         "Season two, episode eighteen: Righteous Brothers"
+                     ]
+                 },
+                 {
+                     "Why did Sally Sitwell break up with Michael?": [
+                         "She thinks he's always looking for things to come between them",
+                         "She stopped being attracted to him when he wore the large coat at the country club",
+                         "She stopped being attracted to him when his credit card was declined at the country club",
+                         "Her father Stan Sitwell convinced her to leave him",
+                         "She was unimpressed with his performance in the company softball game"
+                     ]
+                 },
+                 {
+                     "Which couple did NOT have their hypothetical child rendered by Mommy What Will I Look Like?": [
+                         "George Michael Bluth and Ann Veal",
+                         "George Bluth and Kitty Sanchez",
+                         "Michael Bluth and Sally Sitwell"
+                     ]
+                 },
+                 {
+                     "Which of the following characters never blames themself for Buster losing his hand?": [
+                         "Michael Bluth",
+                         "Lucille Bluth",
+                         "Jobe Bluth"
+                     ]
+                 },
+                 {
+                     "In the season two episode Hand to God, what is written in the note George Michael retrieves from Maggie Lizer's front door?": [
+                         "Really eager to hear from you",
+                         "Finished milk. Buy more.",
+                         "A friend needs pot, can you get some?",
+                         "Thanks for the gift",
+                         "Here's the tux. You bring the flowers and champagne."
+                     ]
+                 },
+                 {
+                     "In the season two episode Hand to God, what does Doctor Fishman say about Buster?": [
+                         "He's going to be all right",
+                         "It's too late for me to do anything for your son",
+                         "You look really hot",
+                         "It looks like he's dead",
+                         "We lost him",
+                         "Your son went down while piloting a plane over Afghanistan"
+                     ]
+                 },
+                 {
+                     "In the season two episode Motherboy Thirty, why does Lindsay become attracted to Tobias?": [
+                         "He has the power of George Bluth due to playing him in Scandalmakers",
+                         "He survives being run over by Barry Zuckerkorn",
+                         "He returns from prison with a detached attitude",
+                         "He finds a date as soon as they open up their relationship"
+                     ]
+                 },
+                 {
+                     "In the season two episode Motherboy Thirty, who rescues George Michael from participating in Motherboy?": [
+                         "Michael and Buster",
+                         "Buster and Jobe",
+                         "Lindsay and Michael",
+                         "Michael and George Senior",
+                         "Maybe and Michael"
+                     ]
+                 },
+                 {
+                     "To parody the lawsuit brought against the show by the band Arrested Development, the narrator says he is legally required to make a distinction between something in the show and which fictional band?": [
+                         "Motherboy",
+                         "Sad Sack",
+                         "Ice",
+                         "Hot Mother",
+                         "Scandalmakers",
+                         "Star Wars Kid"
+                     ]
+                 },
+                 {
+                     "Which letter does not appear in the spelling of Teamocil?": [
+                         "<say-as interpret-as=\"spell-out\">S</say-as",
+                         "<say-as interpret-as=\"spell-out\">I</say-as",
+                         "<say-as interpret-as=\"spell-out\">A</say-as"
+                     ]
+                 },
+                 {
+                     "In the season two episode The Immaculate Election, where does Tobias end up staying after Lindsay kicks him out of the model home?": [
+                         "The set of Wrench",
+                         "Oscar's trailer",
+                         "The Queen Mary",
+                         "Jobe's houseboat",
+                         "Oscar's desert retreat",
+                         "A supply closet at the Bluth Company office"
+                     ]
+                 },
+                 {
+                     "Which real viral video did the show parody with a video by George Michael?": [
+                         "The Star Wars Kid",
+                         "Leave Britney Alone",
+                         "Sneezing Panda",
+                         "Trapped in an Elevator",
+                         "Most Shirts Worn at One Time",
+                         "David After Dentist"
+                     ]
+                 },
+                 {
+                     "What is Misses Featherbottom's first name?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"fɚlɪsiə\">Felitia</phoneme>",
+                         "Cindy",
+                         "Penelope",
+                         "Hortecia",
+                         "Soliloquy",
+                         "Ovaria"
+                     ]
+                 },
+                 {
+                     "In the season two episode Sword of Destiny, in which geographical area does Doctor Stein never claim to be the best doctor?": [
+                         "Newport Beach",
+                         "Orange County",
+                         "Southern California",
+                         "California"
+                     ]
+                 },
+                 {
+                     "In the season two episode Sword of Destiny, which operation does Doctor Stein NOT perform on Michael?": [
+                         "Swapping his middle and index fingers",
+                         "Shortening his calf muscle",
+                         "Appendectomy",
+                         "Removing an abcess on his abdominal wall"
+                     ]
+                 },
+                 {
+                     "In the season two episode Sword of Destiny, Tony Wonder's website is plagued by pop up ads for what?": [
+                         "Family Guy",
+                         "The Cornballer",
+                         "The Brady Bunch Movie",
+                         "Boyfights",
+                         "Klimpy's Restaurant"
+                     ]
+                 },
+                 {
+                     "In the season two episode Meat the Veals, which group abducts Lucille to take her to the vow renewal ceremony?": [
+                         "Jobe, Franklin, and George Senior",
+                         "George Senior and Buster",
+                         "Tobias, George Senior, and Jobe"
+                     ]
+                 },
+                 {
+                     "Who has never been knocked out by Franklin dipped in ether?": [
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "George Bluth",
+                         "Lucille Bluth",
+                         "Buster Bluth",
+                         "Jobe Bluth"
+                     ]
+                 },
+                 {
+                     "What is Pastor Veal's first name?": [
+                         "Terry",
+                         "Timothy",
+                         "Thomas",
+                         "Trevor",
+                         "Teddy"
+                     ]
+                 },
+                 {
+                     "Which actor portrays Phillip Litt?": [
+                         "Zach Braff",
+                         "Dave Attell",
+                         "Jeff Garlin",
+                         "Ed Begley Junior",
+                         "Ed Helms",
+                         "John Michael Higgins"
+                     ]
+                 },
+                 {
+                     "In the season two episode Spring Breakout, the rehab facility Shady Pines is named after a retirement community in which show that Mitchell Hurwitz previously wrote for?": [
+                         "The Golden Girls",
+                         "Designing Women",
+                         "Family Guy",
+                         "The Simpsons",
+                         "Step By Step"
+                     ]
+                 },
+                 {
+                     "Which event prompts Lucille to do her chicken dance for the first time?": [
+                         "A potential Bluth Company investor backing out",
+                         "Buster refusing to participate in Motherboy",
+                         "George refusing to engage in conjugal relations in prison",
+                         "Michael threatening to move to Phoenix",
+                         "Lindsay hesitating to discipline Maybe"
+                     ]
+                 },
+                 {
+                     "In the season two finale Righteous Brothers, why does George Michael decide not to break up with Ann?": [
+                         "He thinks she might kiss him at a protest",
+                         "He thinks Maybe might be his real cousin",
+                         "He is tired of Michael trying to control him",
+                         "He wants to make Maybe jealous",
+                         "He wants to stop her from dating Jobe"
+                     ]
+                 },
+                 {
+                     "Which brand name finally makes Buster realize that Oscar is his real father?": [
+                         "Pop Secret",
+                         "Green Giant",
+                         "Double Take",
+                         "Ovaltine",
+                         "Manwich",
+                         "Big Daddy's"
+                     ]
+                 },
+                 {
+                     "In the season two finale Righteous Brothers, which Bryan Adams song does Franklin sing on his <say-as interpret-as=\"spell-out\">CD</say-as>?": [
+                         "Everything I do I do it for you",
+                         "Please forgive me",
+                         "Heat of the night",
+                         "Getaway",
+                         "Run to you",
+                         "Heaven"
+                     ]
+                 },
+                 {
+                     "In the season three premiere The Cabin Show, what was Jim Cramer's rating for Bluth Company stock before upgrading it to Don't Buy?": [
+                         "Triple sell",
+                         "Double negative",
+                         "Two thumbs down",
+                         "Dump it",
+                         "Run away",
+                         "Widespread panic"
+                     ]
+                 },
+                 {
+                     "On I'm Oscar Dot Com, Oscar has the same inmate number as which famous fictional inmate?": [
+                         "John Valjohn",
+                         "Ivan Denisovich",
+                         "The count of Monte Cristo",
+                         "Rodion Raskolnikov"
+                     ]
+                 },
+                 {
+                     "In the season three premiere The Cabin Show, who does Lucille refer to as some sort of scientist?": [
+                         "Tom Cruise",
+                         "John Travolta",
+                         "Kirstie Alley"
+                     ]
+                 },
+                 {
+                     "In the season three episode For British Eyes Only, which vehicle does Michael give Lindsay after she asks for a new car?": [
+                         "The cabin car",
+                         "The stair car",
+                         "The segway",
+                         "The Mini Cooper",
+                         "His bicycle"
+                     ]
+                 },
+                 {
+                     "What is the name of Rita Leeds' uncle?": [
+                         "Trevor",
+                         "Trent",
+                         "Thomas",
+                         "Timothy",
+                         "Taylor"
+                     ]
+                 },
+                 {
+                     "When daylight saving time is not in effect, what is the time difference between Wee Britain and surrounding Los Angeles?": [
+                         "Wee Britain is eight hours ahead",
+                         "Wee Britain is nine hours ahead",
+                         "Wee Britain is six hours behind",
+                         "Wee Britain is seven hours behind",
+                         "Wee Britain is five hours ahead"
+                     ]
+                 },
+                 {
+                     "In what order were the Bluth Company attorneys hired?": [
+                         "Barry Zuckerkorn, Wayne Jarvis, Bob Loblaw",
+                         "Barry Zuckerkorn, Bob Loblaw, Wayne Jarvis",
+                         "Wayne Jarvis, Barry Zuckerkorn, Bob Loblaw",
+                         "Wayne Jarvis, Bob Loblaw, Barry Zuckerkorn",
+                         "Bob Loblaw, Wayne Jarvis, Barry Zuckerkorn",
+                         "Bob Loblaw, Barry Zuckerkorn, Wayne Jarvis"
+                     ]
+                 },
+                 {
+                     "In the season three episode Forget Me Now, why does Buster knock Rita to the ground?": [
+                         "She is wearing a seal backpack",
+                         "She stares at his hook",
+                         "She ignores him",
+                         "She invites him to swim in the ocean",
+                         "She touches his waist"
+                     ]
+                 },
+                 {
+                     "Which guest star also appeared in Happy Days, where he was introduced in order to appeal to younger audiences?": [
+                         "Scott Baio",
+                         "Dave Thomas",
+                         "Ben Stiller",
+                         "Martin Mull",
+                         "Mark Cherry",
+                         "Andy Richter"
+                     ]
+                 },
+                 {
+                     "In which month did the season three premiere air?": [
+                         "September two thousand five",
+                         "November two thousand five",
+                         "September two thousand four",
+                         "November two thousand four",
+                         "September two thousand six",
+                         "November two thousand six"
+                     ]
                  }
 ];
 
@@ -973,20 +1352,6 @@ var questions = [
  */
 
 /* To do list
-S2E8
-S2E9
-S2E10
-S2E11
-S2E12
-S2E13
-S2E14
-S2E15
-S2E16
-S2E17
-S2E18
-S3E1
-S3E2
-S3E3
 S3E4
 S3E5
 S3E6
