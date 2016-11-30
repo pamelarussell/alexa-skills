@@ -1266,7 +1266,7 @@ var questions = [
                      ]
                  },
                  {
-                     "When daylight saving time is not in effect, what is the time difference between Wee Britain and surrounding Los Angeles?": [
+                     "When daylight saving time is not in effect, what is the time difference between Wee Britain and surrounding Orange County?": [
                          "Wee Britain is eight hours ahead",
                          "Wee Britain is nine hours ahead",
                          "Wee Britain is six hours behind",
@@ -1312,6 +1312,235 @@ var questions = [
                          "September two thousand six",
                          "November two thousand six"
                      ]
+                 },
+                 {
+                     "What is the name of Bob Loblaw's daughter?": [
+                         "Hope",
+                         "Shirley",
+                         "Emma",
+                         "Mauve",
+                         "Tina",
+                         "Penny"
+                     ]
+                 },
+                 {
+                     "Who do Lindsay and Tobias each coach in the Miss Inner Beauty Pageant?": [
+                         "Lindsay coaches Hope Loblaw, Tobias coaches Ann",
+                         "Lindsay coaches Hope Loblaw, Tobias coaches Maybe",
+                         "Lindsay coaches Maybe, Tobias coaches Ann",
+                         "Lindsay coaches Maybe, Tobias coaches Hope Loblaw",
+                         "Lindsay coaches Ann, Tobias coachesh Maybe",
+                         "Lindsay coaches Ann, Tobias coaches Hope Loblaw"
+                     ]
+                 },
+                 {
+                     "Which song does Ann sing in the Miss Inner Beauty Pageant?": [
+                         "We Three Kings",
+                         "Whom Shall I Fear",
+                         "Just Be Held",
+                         "Amazing Grace",
+                         "Give Me Your Eyes",
+                         "City On Our Knees"
+                     ]
+                 },
+                 {
+                     "In the season three episode Mister F, what does Michael give George Michael for his birthday?": [
+                         "A Jack Welch suit and a copy of Quicken",
+                         "A jet pack and a copy of Quickbooks",
+                         "A receipt scanner and a subscription to Salesforce",
+                         "A Brooks Brothers tie and a copy of Getting to Yes"
+                     ]
+                 },
+                 {
+                     "In the season three episode Mister F, Michael finds Tobias on the floor after he got how many hair plugs in one sitting?": [
+                         "Four thousand",
+                         "Five thousand",
+                         "Ten thousand",
+                         "Eight thousand"
+                     ]
+                 },
+                 {
+                     "Maybe receives her first F for which film?": [
+                         "Love Indubitably",
+                         "The Ocean Walker",
+                         "<phoneme alphabet=\"ipa\" ph=\"leɪ kuzɑŋ dɑŋd͡ʒɚɹɝ\">Les Cousins Dangereux</phoneme>",
+                         "Homeless Dad",
+                         "Almost Cousins",
+                         "Gangee",
+                         "A Thorougly Polite Dustup",
+                         "The Young Man and the Beach",
+                         "Snowboarding School Two"
+                     ]
+                 },
+                 {
+                     "Which of Maybe's film scripts does Rita contribute content for?": [
+                         "The Ocean Walker",
+                         "Love Indubitably",
+                         "Almost Cousins",
+                         "A Thoroughly Polite Dustup",
+                         "The Young Man and the Beach",
+                         "Homeless Dad",
+                         "Snowboarding School Two"
+                     ]
+                 },
+                 {
+                     "In the season three episode The Ocean Walker, how long does Rita claim to be able to hold her breath?": [
+                         "Twenty minutes",
+                         "Ten minutes",
+                         "Fifteen minutes",
+                         "Thirty minutes",
+                         "Two hours",
+                         "Eighty minutes"
+                     ]
+                 },
+                 {
+                     "In the season three episode The Ocean Walker, which show does Michael watch with George Senior over the phone while pretending Rita is in the shower?": [
+                         "E True Hollywood Story",
+                         "Access Hollywood",
+                         "Entertainment Tonight",
+                         "<say-as interpret-as=\"spell-out\">TMZ</say-as>"
+                     ]
+                 },
+                 {
+                     "In the season three episode Prison Break In, how does Michael console himself after his breakup with Rita?": [
+                         "Playing guitar",
+                         "Eating an entire thing of candy beans",
+                         "Taking George Michael on a fishing trip",
+                         "Buying a new bicycle"
+                     ]
+                 },
+                 {
+                     "In the season three episode Prison Break In, which screenplay does Maybe ask George Michael to read for her?": [
+                         "New Warden",
+                         "Homeless Dad",
+                         "Almost Cousins",
+                         "<phoneme alphabet=\"ipa\" ph=\"leɪ kuzɑŋ dɑŋd͡ʒɚɹɝ\">Les Cousins Dangereux</phoneme>",
+                         "Love Indubitably"
+                     ]
+                 },
+                 {
+                     "In the season three episode Prison Break In, who does Michael refer to as, her?": [
+                         "Lucille Bluth",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Ann Veal",
+                         "Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Rita Leeds",
+                         "Maggie Lizer"
+                     ]
+                 },
+                 {
+                     "In the season three episode Making a Stand, Jobe wants to sell Bluth Company blueprints to our Mexican friends down in which country?": [
+                         "Colombia",
+                         "Portugal",
+                         "Venezuela",
+                         "El Salvador",
+                         "Nicaragua",
+                         "Guatemala"
+                     ]
+                 },
+                 {
+                     "In the season three episode Making a Stand, which of the following is NOT part of a competition tactic used by one of the two banana stands?": [
+                         "Distributing flyers on the boardwalk",
+                         "A banana suit",
+                         "A jetpack",
+                         "Fireballs",
+                         "Scantily clad women",
+                         "An aggressive slogan"
+                     ]
+                 },
+                 {
+                     "In the season three episode Making a Stand, the Guatemalan painter Rolando has taken improv classes at which theater?": [
+                         "The Groundlings",
+                         "Upright Citizens Brigade",
+                         "Improv Olympic",
+                         "The Annoyance",
+                         "People's Improv Theater",
+                         "Magnet Theater"
+                     ]
+                 },
+                 {
+                     "In the season three episode S.O.B's, what is written in the letter from the Openings school that Lindsay and Tobias don't read?": [
+                         "Maybe is about to be expelled",
+                         "Maybe has been sleeping at the school",
+                         "Maybe is a secret movie studio executive",
+                         "Maybe is failing spelling",
+                         "Maybe is posing as her altar ego Surely"
+                     ]
+                 },
+                 {
+                     "In the season three episode S.O.B's, which Richter quintuplet is poisoned by the muffin man?": [
+                         "Donnie",
+                         "Andy",
+                         "Emmett",
+                         "Rocky",
+                         "Chareth"
+                     ]
+                 },
+                 {
+                     "Which Richter quintuplet does not like to have his face shown on television?": [
+                         "Emmett",
+                         "Donnie",
+                         "Andy",
+                         "Rocky",
+                         "Chareth"
+                     ]
+                 },
+                 {
+                     "Which actor portrays Judge Reinhold?": [
+                         "Edward Reinhold Junior",
+                         "Seth Rogen",
+                         "Martin Mull",
+                         "Bob Glouberman",
+                         "Mac Brandt",
+                         "Chris Diamantopoulos"
+                     ]
+                 },
+                 {
+                     "In the season three episode Fakin It, who is Lindsay's love interest?": [
+                         "The son of Buster's hospital roommate",
+                         "Tom Jane",
+                         "James Carr",
+                         "Moses Taylor",
+                         "Larry Middleman",
+                         "Marky Bark"
+                     ]
+                 },
+                 {
+                     "In the season three episode Fakin It, which issue is Lindsay temporarily passionate about?": [
+                         "The right to pull the plug",
+                         "Saving the wetlands",
+                         "Removing the ten commandments from the county courthouse",
+                         "Supporting the Ladies of Literacy",
+                         "Monkey freedom",
+                         "A larger free speech zone"
+                     ]
+                 },
+                 {
+                     "Which character is played by Justine Bateman?": [
+                         "Nellie",
+                         "Starla",
+                         "Jan Eagleman",
+                         "Rebel Alley",
+                         "Young Lucille Bluth",
+                         "Debrie Bardeaux",
+                         "Jobe's wife"
+                     ]
+                 },
+                 {
+                     "In the season three episode Family Ties, when Michael first arrives at the office, one of the <phoneme alphabet=\"ipa\" ph=\"sʌpoʊzɛd\">supposed</phoneme> computers an employee is holding is in fact what?": [
+                         "A toaster oven",
+                         "A homefill",
+                         "A record player",
+                         "A boom box",
+                         "A typewriter"
+                     ]
+                 },
+                 {
+                     "In the season three episode Family Ties, why is George sitting in Buster's room surrounded by computer equipment from the Bluth Company office?": [
+                         "He is trying to delete the hard drives",
+                         "He is in the midst of a Black Friday firing spree",
+                         "He is searching for information on N Bluth"
+                     ]
                  }
 ];
 
@@ -1352,14 +1581,6 @@ var questions = [
  */
 
 /* To do list
-S3E4
-S3E5
-S3E6
-S3E7
-S3E8
-S3E9
-S3E10
-S3E11
 S3E12
 S3E13
 S4E1
@@ -1377,8 +1598,6 @@ S4E12
 S4E13
 S4E14
 S4E15
-Series misc
-Character/actor misc
  */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
