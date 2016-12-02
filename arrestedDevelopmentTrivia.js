@@ -2,7 +2,9 @@
 'use strict';
 
 /**
+ * Trivia questions
  * The first answer is the correct one
+ * The correct answer is randomly mixed in with wrong ones chosen from the rest
  */
 var questions = [
                  {
@@ -1541,6 +1543,477 @@ var questions = [
                          "He is in the midst of a Black Friday firing spree",
                          "He is searching for information on N Bluth"
                      ]
+                 },
+                 {
+                     "In the season three episode Exit Strategy, what is the name of the nurse who falls in love with supposedly comatose Buster?": [
+                         "Adelaide",
+                         "Victoria",
+                         "Sydney",
+                         "Augusta",
+                         "Benalla"
+                     ]
+                 },
+                 {
+                     "How many phone calls did Buster make to radio stations while supposedly in a coma?": [
+                         "Fifteen",
+                         "Eight",
+                         "Thirteen",
+                         "Twenty two",
+                         "Nineteen",
+                         "Twenty four"
+                     ]
+                 },
+                 {
+                     "In the season three episode Exit Strategy, why did Maybe lose her movie studio job?": [
+                         "George Michael invited her coworkers to her sweet sixteen surprise party",
+                         "Tobias dropped her off at work in the stair car",
+                         "Lindsay and Lucille attended a studio tour drunk",
+                         "Mort Meyers discovered her high school math homework"
+                     ]
+                 },
+                 {
+                     "What was the title of the season three finale?": [
+                         "Development Arrested",
+                         "It Gets Better",
+                         "Blockheads",
+                         "Off the Hook",
+                         "Senioritis"
+                     ]
+                 },
+                 {
+                     "In the season three finale Development Arrested, what was Jim Cramer's rating for Bluth Company stock after upgrading it from Don't Buy?": [
+                         "Risky",
+                         "Double negative",
+                         "Two thumbs down",
+                         "Triple sell",
+                         "Run away",
+                         "Widespread panic"
+                     ]
+                 },
+                 {
+                     "In the season three finale Development Arrested, who makes Lindsay realize she is almost forty?": [
+                         "Stan Sitwell",
+                         "George Bluth",
+                         "Barry Zuckerkorn",
+                         "Lucille Austero",
+                         "Doctor Fishman",
+                         "Larry Middleman"
+                     ]
+                 },
+                 {
+                     "In which month was season four released on Netflix?": [
+                         "May two thousand thirteen",
+                         "November two thousand twelve",
+                         "September two thousand twelve",
+                         "June two thousand thirteen",
+                         "August two thousand twelve",
+                         "June two thousand twelve"
+                     ]
+                 },
+                 {
+                     "In the season four premiere Flight of the Phoenix, why has George Michael been given an extra large dorm room?": [
+                         "The housing office thought he was two people",
+                         "P Hound is scheduled to move in at the beginning of second semester",
+                         "The housing administrator is a Milford Academy graduate",
+                         "The university is allowing family to stay in dorms during the recession"
+                     ]
+                 },
+                 {
+                     "What is the name of the in flight magazine for Out West Airlines?": [
+                         "Altitude",
+                         "Hemispheres",
+                         "En Route",
+                         "Sky",
+                         "Spirit"
+                     ]
+                 },
+                 {
+                     "In the season four episode Borderline Personalities, which of the following is NOT one of Oscar's friends?": [
+                         "Divine Spirit",
+                         "Heartfire",
+                         "Doctor Norman",
+                         "China Garden"
+                     ]
+                 },
+                 {
+                     "Where did Barry Zuckerkorn go to law school?": [
+                         "The Virgin Islands",
+                         "Barbados",
+                         "Colombia",
+                         "Belize",
+                         "Puerto Rico",
+                         "Venezuela"
+                     ]
+                 },
+                 {
+                     "In the season four episode Borderline Personalities, which actor portrays the young Barry Zuckerkorn?": [
+                         "Max Winkler",
+                         "John Slattery",
+                         "Allan Wasserman",
+                         "Mac Brandt",
+                         "Seth Rogen",
+                         "Todd Jeffries"
+                     ]
+                 },
+                 {
+                     "The season four episode Indian Takers revolves around which character?": [
+                         "Lindsay",
+                         "Tobias",
+                         "Michael",
+                         "Maybe",
+                         "George Michael",
+                         "Jobe"
+                     ]
+                 },
+                 {
+                     "In the season four episode Indian Takers, which item is C.W. Swappigan's no longer accepting for barter?": [
+                         "Hotel soaps",
+                         "Butter",
+                         "Cocktail trays",
+                         "High heeled shoes",
+                         "Candlesticks"
+                     ]
+                 },
+                 {
+                     "Which actor portrays DeBrie Bardeaux?": [
+                         "Maria Bamford",
+                         "Debra Mooney",
+                         "Jessica Chaffin",
+                         "Kristen Wiig",
+                         "Becky Thyre",
+                         "Nancy Lantis"
+                     ]
+                 },
+                 {
+                     "In the season four episode The B Team, which part does Michael want Rebel Alley to play in the movie about the Bluth family?": [
+                         "Tracey Bluth",
+                         "Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Rita Leeds",
+                         "Sally Sitwell",
+                         "Maggie Lizer"
+                     ]
+                 },
+                 {
+                     "In the season four episode The B Team, what team does Michael assemble to meet with Ron Howard about the Bluth Family movie?": [
+                         "Stefan Gentles, Andy Richter, and Carl Weathers",
+                         "Carl Weathers, Donnie Richter, and Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Rebel Alley, Stefan Gentles, and Brian Grazer",
+                         "Mike Dawkins, Carl Weathers, and Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Carl Weathers, Jobe Bluth, and Franklin",
+                         "Stefan Gentles, Carl Weathers, and Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
+                     ]
+                 },
+                 {
+                     "In the season four episode The B Team, which of the following is NOT mentioned as one of Imagine Entertainment's films?": [
+                         "Life of Pi",
+                         "Coccoon",
+                         "How the Grinch Stole Christmas",
+                         "Splash",
+                         "Curious George",
+                         "The DaVinci Code",
+                         "Willow"
+                     ]
+                 },
+                 {
+                     "The season four episode A New Start revolves around which character?": [
+                         "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Michael Bluth",
+                         "George Michael Bluth",
+                         "Buster Bluth",
+                         "Jobe Bluth"
+                     ]
+                 },
+                 {
+                     "In the season four episode A New Start, which section of the book Eat, Pray, Love do Lindsay and Tobias both skip?": [
+                         "Love",
+                         "Eat",
+                         "Pray"
+                     ]
+                 },
+                 {
+                     "In the season four episode A New Start, which show do the Indian interns say has just reached India?": [
+                         "Laugh In",
+                         "Baywatch",
+                         "Melrose Place",
+                         "The O.C.",
+                         "In Living Color",
+                         "Family Ties"
+                     ]
+                 },
+                 {
+                     "In the season four episode Double Crossers, who said, Do I look like someone who eats at C.W. Swappigan's?": [
+                         "Herbert Love",
+                         "George Bluth",
+                         "Andy Richter",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme",
+                         "Jobe Bluth",
+                         "Lucille Bluth"
+                     ]
+                 },
+                 {
+                     "In the season four episode Double Crossers, who describes George Senior's testosterone levels as somewhere in the baby range?": [
+                         "Doctor Norman",
+                         "Doctor Stein",
+                         "Doctor Fishman"
+                     ]
+                 },
+                 {
+                     "The season four episode Double Crossers features George Senior running a sweat lodge in the desert. Which main characters do not appear in this episode?": [
+                         "Tobias, Maybe, and George Michael",
+                         "George Michael, Lucille, and Lindsay",
+                         "Maybe, Lucille, and Buster",
+                         "Buster, Tobias, and Jobe",
+                         "Jobe, George Michael, and Oscar",
+                         "Buster, Lucille, and George Michael"
+                     ]
+                 },
+                 {
+                     "Which television network airs the show, And As It Is Such, So Also As Such Is It Unto You?": [
+                         "Miracle Network",
+                         "Hope Channel",
+                         "Glorystar Channel",
+                         "Trinity Broadcasting Network",
+                         "Sky Angel",
+                         "Grace T.V."
+                     ]
+                 },
+                 {
+                     "In the season four episode Colony Collapse, Jobe survived for two weeks in a storage locker eating only what?": [
+                         "Red licorice vines",
+                         "Wheat Thins",
+                         "Junior Mints",
+                         "Flamin Hot Cheetos",
+                         "Marshmallows",
+                         "Pumpkin Spice Twinkies"
+                     ]
+                 },
+                 {
+                     "How many exclamation points are in the name Steve Holt Pest Control Business?": [
+                         "One",
+                         "Zero",
+                         "Two",
+                         "Three"
+                     ]
+                 },
+                 {
+                     "What is the name of Marky Bark's pet ostrich?": [
+                         "Cindy",
+                         "Harry",
+                         "Penelope",
+                         "Jubilee",
+                         "Ozark",
+                         "Trisha"
+                     ]
+                 },
+                 {
+                     "In the season four episode Red Hairing, what fake name does Lindsay give to Herbert Love?": [
+                         "Cindy Featherbottom",
+                         "Shari Cutestory",
+                         "Lindsay Maharris"
+                     ]
+                 },
+                 {
+                     "In the season four episode Red Hairing, what does the crowd chat at Cinco de Cuatro?": [
+                         "Put up this wall",
+                         "Don't buy",
+                         "Speech",
+                         "Risky"
+                     ]
+                 },
+                 {
+                     "Which actor portrays Argyle Austero?": [
+                         "Tommy Tune",
+                         "Terry Crews",
+                         "John Slattery",
+                         "Jay Johnston",
+                         "Scott Vance",
+                         "Lonny Ross"
+                     ]
+                 },
+                 {
+                     "In the season four episode Smashed, who is NOT in the group session led by Tobias at the Austerity clinic?": [
+                         "Marky Bark",
+                         "DeBrie Bardeaux",
+                         "Emmett Richter",
+                         "Mark Cherry"
+                     ]
+                 },
+                 {
+                     "What is the slogan of the Austerity clinic?": [
+                         "A full service way to live without",
+                         "Nothing is so bad a drink won’t make it worse",
+                         "When you smile, your brain thinks you’re happy",
+                         "Your day will go the way the corners of your mouth turn",
+                         "Dance your way to the next phase of your life"
+                     ]
+                 },
+                 {
+                     "What is the name of China Garden's aunt?": [
+                         "Olive Garden",
+                         "Jade Dragon",
+                         "Misses Oh",
+                         "Panda Garden",
+                         "Lucky Dynasty"
+                     ]
+                 },
+                 {
+                     "In the season four episode Queen B, why does Lucille push Oscar away on the night of Cinco de Cuatro?": [
+                         "She notices a Lucille Austero sticker on his pants",
+                         "She notices a blue handprint on his chest",
+                         "She finds out he has been filling in for George who has low testosterone"
+                     ]
+                 },
+                 {
+                     "What is DeBrie Bardeaux's part in Fantastic Four: An Action Musical?": [
+                         "Sue Storm",
+                         "Misses Fantastic",
+                         "The Thing",
+                         "Electra",
+                         "Trinity",
+                         "Babydoll"
+                     ]
+                 },
+                 {
+                     "In the season four episode A New Attitude, Jobe and Tony Wonder bond at Tony Wonder's house over what?": [
+                         "Wine and popcorn",
+                         "Mike's Hard Lemonade and ice cream",
+                         "Zima and Chinese food",
+                         "Strawberry Andre and In N Out"
+                     ]
+                 },
+                 {
+                     "The actor who plays Tony Wonder is married in real life to the actor who plays which other character?": [
+                         "Sally Sitwell",
+                         "Trisha Thoon",
+                         "Starla",
+                         "DeBrie Bardeaux",
+                         "Kitty Sanchez",
+                         "Rebel Alley"
+                     ]
+                 },
+                 {
+                     "What is the name of Pastor Veal's co-host on And As It Is Such, So Also As Such Is It Unto You?": [
+                         "Father Marsala",
+                         "Father Scaloppini",
+                         "Father Parmigiana",
+                         "Father Scaloppini",
+                         "Father Tartare",
+                         "Father Ossobuco"
+                     ]
+                 },
+                 {
+                     "The season four episode Senioritis revolves around which character?": [
+                         "Maybe",
+                         "Lucille",
+                         "George",
+                         "Oscar",
+                         "George Michael",
+                         "Buster"
+                     ]
+                 },
+                 {
+                     "In the season four episode Senioritis, how does Maybe plan to teach her parents a lesson?": [
+                         "Failing out of high school",
+                         "Travelling to India to film a movie",
+                         "Going back to repeat her senior year of high school"
+                     ]
+                 },
+                 {
+                     "In the season four episode Senioritis, who does Maybe date until she determines that he's an undercover cop?": [
+                         "Perfecto Telles",
+                         "Paul Huan",
+                         "Steve Holt",
+                         "Rocky Richter-Wang"
+                     ]
+                 },
+                 {
+                     "In the season four episode It Gets Better, we learn that George Michael was in a love triangle his sophomore year of college with which two people?": [
+                         "Ray and Becky",
+                         "Maybe and Perfecto",
+                         "Jobe and the Spanish housewife",
+                         "Ann and Mark Cherry",
+                         "P Hound and Ann",
+                         "Jobe and Rebel Alley"
+                     ]
+                 },
+                 {
+                     "Where did George Michael study abroad in college?": [
+                         "Spain",
+                         "Portugal",
+                         "Italy",
+                         "France",
+                         "Monaco",
+                         "Luxembourg"
+                     ]
+                 },
+                 {
+                     "In the season four episode It Gets Better, how much does George Michael pay to trademark the name Fakeblock?": [
+                         "Five thousand dollars",
+                         "Three times ninety nine cents",
+                         "Three thousand dollars",
+                         "Two thousand dollars",
+                         "Seven thousand dollars",
+                         "Six thousand dollars"
+                     ]
+                 },
+                 {
+                     "The season four episode Off the Hook revolves around which character?": [
+                         "Buster",
+                         "George",
+                         "Maybe",
+                         "Lucille",
+                         "Tobias",
+                         "Jobe"
+                     ]
+                 },
+                 {
+                     "In the season four episode Off the Hook, which location does Buster destroy as a drone pilot?": [
+                         "A hospital in Spain",
+                         "A school in Brazil",
+                         "A nursing home in Peru",
+                         "A toy store in Bosnia",
+                         "A petting zoo in Northern Ireland",
+                         "A church in Greece"
+                     ]
+                 },
+                 {
+                     "In the season four episode Off the Hook, why is Buster discharged from the army?": [
+                         "He fails the Q-test",
+                         "He fails to scale the wall",
+                         "He refuses to operate a drone remotely",
+                         "He wears a breakaway soldier costume instead of his uniform",
+                         "Lucille bribes the Colonel to discharge him"
+                     ]
+                 },
+                 {
+                     "In the season four episode Blockheads, why does George Michael fire Maybe from Fakeblock?": [
+                         "For overhyping the company",
+                         "For skipping work to produce the movie Gangee on the Ganges",
+                         "For telling Rebel Alley his real name",
+                         "For violating a patent on security software"
+                     ]
+                 },
+                 {
+                     "In the season four episode Blockheads, Jobe hires a group of people from which country to build the wall between the U.S. and Mexico?": [
+                         "Mongolia",
+                         "Colombia",
+                         "Canada",
+                         "Vietnam",
+                         "Venezuela",
+                         "Guatemala"
+                     ]
+                 },
+                 {
+                     "In the season four episode Blockheads, Buster is arrested for the murder of whom?": [
+                         "Lucille Austero",
+                         "Rebel Alley",
+                         "Tony Wonder",
+                         "Officer Taylor",
+                         "Doctor Stein",
+                         "Stan Sitwell"
+                     ]
                  }
 ];
 
@@ -1580,25 +2053,6 @@ var questions = [
 
  */
 
-/* To do list
-S3E12
-S3E13
-S4E1
-S4E2
-S4E3
-S4E4
-S4E5
-S4E6
-S4E7
-S4E8
-S4E9
-S4E10
-S4E11
-S4E12
-S4E13
-S4E14
-S4E15
- */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
 // etc.) The JSON body of the request is provided in the event parameter.
