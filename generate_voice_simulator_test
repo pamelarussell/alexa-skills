@@ -4,19 +4,33 @@
 # the Alexa Voice Simulator to test the speech rendering. All questions and answer choices are
 # included. This eliminates the need to play the game in order to hear the speech.
 
-cat questions.JSON | \
- perl -pi -e 's/{//g' | \
- perl -pi -e 's/://g' | \
- perl -pi -e 's/\\\"/FORWARD_SLASH_DOUBLE_QUOTE/g' | \
- perl -pi -e 's/\"//g' | \
- perl -pi -e 's/FORWARD_SLASH_DOUBLE_QUOTE/\\\"/g' | \
- perl -pi -e 's/}//g' | \
- perl -pi -e 's/\[//g' | \
- perl -pi -e 's/\]//g' | \
- perl -pi -e 's/,//g' | \
- perl -pi -e 's/                         / /g' | \
- perl -pi -e 's/                     / /g' | \
- awk 'BEGIN {str=""; nr=0} NF > 0 {nr = nr+1; str = str $0 " <break time=\"1s\"/>"} nr % 20 == 0 {print str "\n\n"; nr=0; str=""}' > voice_simulator_test.txt
+cat arrestedDevelopmentTrivia.js | \
+awk '
+	BEGIN {pr="f"; started="f"}
+	/var questions/ {pr="t"; getline}
+	/];/ {pr="f"}
+	pr=="t" && started=="t" {print $0}
+	pr=="t" {started="t"}
+' | \
+perl -pi -e 's/{//g' | \
+perl -pi -e 's/://g' | \
+perl -pi -e 's/\\\"/FORWARD_SLASH_DOUBLE_QUOTE/g' | \
+perl -pi -e 's/\"//g' | \
+perl -pi -e 's/FORWARD_SLASH_DOUBLE_QUOTE/\\\"/g' | \
+perl -pi -e 's/}//g' | \
+perl -pi -e 's/\[//g' | \
+perl -pi -e 's/\]//g' | \
+perl -pi -e 's/,\n/\n/g' | \
+perl -pi -e 's/                         / /g' | \
+perl -pi -e 's/                     / /g' | \
+awk '
+	BEGIN {str=""; nr=0; np=0} 
+	NF > 0 {nr = nr+1; str = str $0 " <break time=\"1s\"/>"} 
+	nr % 20 == 0 && str != "" {print np "\n" str "\n\n"; nr=0; str=""; np++}
+	nr % 20 == 0 && str == "" {nr=0}
+	END {print np "\n" str "\n\n"; nr=0; str=""; np++}
+' \
+> voice_simulator_test.txt
 
 
 
