@@ -38,7 +38,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Top Banana, who burns down the storage unit containing the Bluth company flight records?": [
+                     "In the season one episode, Top Banana, who burns down the storage unit containing the Bluth company flight records?": [
                          "T Bone",
                          "Lucille Bluth",
                          "George Bluth",
@@ -59,17 +59,17 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Top Banana, what does Jobe say is his least consistent magic trick?": [
+                     "In the season one episode, Top Banana, what does Jobe say is his least consistent magic trick?": [
                          "Fireball",
                          "<phoneme alphabet=\"ipa\" ph=\"laɪv\">Live</phoneme> doves",
                          "Shooting pennies",
                          "The Aztec Tomb",
                          "Making the yacht disappear",
-                         "Live mice"
+                         "<phoneme alphabet=\"ipa\" ph=\"laɪv\">Live</phoneme> mice"
                      ]
                  },
                  {
-                     "In the season one episode Bringing Up Buster, which play does Maybe audition for to get a chance to kiss Steve Holt?": [
+                     "In the season one episode, Bringing Up Buster, which play does Maybe audition for to get a chance to kiss Steve Holt?": [
                          "Much Ado About Nothing",
                          "Our Town",
                          "Singing In The Rain",
@@ -79,7 +79,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Bringing Up Buster, what does Michael use to try to get closer to George Michael?": [
+                     "In the season one episode, Bringing Up Buster, what does Michael use to try to get closer to George Michael?": [
                          "A new bicycle",
                          "A trip to Phoenix",
                          "A trip to Legoland",
@@ -106,18 +106,18 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, which example of Lindsay's hypocrisy does Michael point out?": [
+                     "In the season one episode, Key Decisions, which example of Lindsay's hypocrisy does Michael point out?": [
                          "Ostrich skin boots",
                          "Killing a frog in the wetlands",
                          "Wanting a nicer car",
-                         "A shopping spree",
+                         "Shopping spree",
                          "Mink coat",
                          "Leather briefcase"
                      ]
                  },
                  {
-                     "In the season one episode Key Decisions, what is Michael holding when he and Marta are talking on top of the stair car after the Desi awards?": [
-                         "A cup from In N Out Burger",
+                     "In the season one episode, Key Decisions, what is Michael holding when he and Marta are talking on top of the stair car after the Desi awards?": [
+                         "A cup from Inn En Out Burger",
                          "A bottle in a brown paper bag",
                          "A dead dove",
                          "A taco",
@@ -136,7 +136,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Charity Drive, how much money does Buster bid on the wrong Lucille at the charity auction?": [
+                     "In the season one episode, Charity Drive, how much money does Buster bid on the wrong Lucille at the charity auction?": [
                          "Ten thousand dollars",
                          "One thousand dollars",
                          "Five thousand dollars",
@@ -146,7 +146,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Charity Drive, how does Jobe blow his cover when breaking into the permit office to misfile the building permits?": [
+                     "In the season one episode, Charity Drive, how does Jobe blow his cover when breaking into the permit office to misfile the building permits?": [
                          "Whistles due to a chipped tooth",
                          "Releases a <phoneme alphabet=\"ipa\" ph=\"laɪv\">Live</phoneme> dove",
                          "Releases a box of mice",
@@ -155,7 +155,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Visiting Ours, why is George preoccupied when Michael visits him in prison to ask about the location of some international files?": [
+                     "In the season one episode, Visiting Ours, why is George preoccupied when Michael visits him in prison to ask about the location of some international files?": [
                          "A softball game",
                          "A visit from Kitty",
                          "Starting a religion within the prison",
@@ -165,17 +165,17 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Visiting Ours, Tobias and the marriage therapist can be heard discussing the cast of which show during their therapy session?": [
+                     "In the season one episode, Visiting Ours, Tobias and the marriage therapist can be heard discussing the cast of which show during their therapy session?": [
                          "Friends",
                          "The O C",
                          "Happy Days",
-                         "Frasier",
+                         "<phoneme alphabet=\"ipa\" ph=\"fɹeɪʒɚɹ\">Frasier</phoneme>",
                          "My So Called Life",
                          "Sixty Minutes"
                      ]
                  },
                  {
-                     "In the season one episode Visiting Ours, why does Jobe write a strongly worded letter to the prison warden?": [
+                     "In the season one episode, Visiting Ours, why does Jobe write a strongly worded letter to the prison warden?": [
                          "A disagreement about the success of his prison breakout stunt",
                          "Not being allowed to perform at the prison",
                          "Having equipment stolen during a visit to George Bluth",
@@ -235,11 +235,11 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode In God We Trust, who is Lucille's date to the Living Classics pageant?": [
+                     "In the season one episode, In God We Trust, who is Lucille's date to the Living Classics pageant?": [
                          "Wayne Jarvis",
                          "Oscar Bluth",
-                         "Stephen Gentles",
-                         "Tom Jain",
+                         "Stefen Gentles",
+                         "Tom Jane",
                          "George Bluth",
                          "Buster Bluth"
                      ]
@@ -255,7 +255,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode In God We Trust, why does Buster have a panic attack at the Living Classics pageant?": [
+                     "In the season one episode, In God We Trust, why does Buster have a panic attack at the Living Classics pageant?": [
                          "He assumes the crowd is booing his relationship with Lucille Austero",
                          "He is afraid to play Adam",
                          "He is not allowed to wear cutoffs in the pageant",
@@ -265,7 +265,7 @@ var questions = [
                      ]
                  },
                  {
-                     "What is the name of the apartment complex where Lucille lives in a penthouse?": [
+                     "What is the name of the apartment building where Lucille lives in a penthouse?": [
                          "Balboa Towers",
                          "Sudden Valley",
                          "Paradise Gardens",
@@ -275,7 +275,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode My Mother the Car, how does Buster sustain an injury?": [
+                     "In the season one episode, My Mother the Car, how does Buster sustain an injury?": [
                          "Leaping through a plate glass window",
                          "Falling off a balcony",
                          "Falling off a segway",
@@ -291,32 +291,32 @@ var questions = [
                          "When Animals Attack",
                          "Worst Parents in America",
                          "Penthouse Stories",
-                         "How the Other Half Lives",
+                         "How the Other Half <phoneme alphabet=\"ipa\" ph=\"lɪvz\">Lives</phoneme>",
                          "Real Estate Nightmares"
                      ]
                  },
                  {
-                     "In the season one episode Storming the Castle, what does Jobe say to Michael as he steals Micheal's watch?": [
+                     "In the season one episode, Storming the Castle, what does Jobe say to Michael as he steals Micheal's watch?": [
                          "I appreciate your time",
                          "What kind of threats?",
-                         "He doesn’t want to break my legs. He wants to take my legs",
-                         "You’re a good brother, Michael",
+                         "He doesn’t want to break my legs, he wants to take my legs",
+                         "You’re a good brother Michael",
                          "I want you to have it",
                          "I want to try to be a better brother. Like you are to me"
                      ]
                  },
                  {
                      "In which episode did George Bluth convert to Judaism?": [
-                         "Season one, episode nine: Storming the Castle",
-                         "Season one, episode seventeen: Justice is Blind",
-                         "Season one, episode fifteen: Staff Infection",
-                         "Season two, episode four: Good Grief",
-                         "Season two, episode five: Sad Sack",
-                         "Season two, episode seven: Switch Hitter"
+                         "Season one, episode nine, Storming the Castle",
+                         "Season one, episode seventeen, Justice is Blind",
+                         "Season one, episode fifteen, Staff Infection",
+                         "Season two, episode four, Good Grief",
+                         "Season two, episode five, Sad Sack",
+                         "Season two, episode seven, Switch Hitter"
                      ]
                  },
                  {
-                     "In the season one episode Storming the Castle, why is George Bluth supportive of Buster's relationship with Lucille Austero?": [
+                     "In the season one episode, Storming the Castle, why is George Bluth supportive of Buster's relationship with Lucille Austero?": [
                          "His recent conversion to Judaism",
                          "His desire to get revenge on Lucille Bluth",
                          "His desire to keep his other sons away from Lucille Austero",
@@ -326,7 +326,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Pier Pressure, how does Lindsay punish Maybe for getting bad grades?": [
+                     "In the season one episode, Pier Pressure, how does Lindsay punish Maybe for getting bad grades?": [
                          "Makes her spend a day with Lucille Bluth",
                          "Makes her spend spring break working at the Bluth Company",
                          "Makes her work for a day in the banana stand",
@@ -335,7 +335,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Pier Pressure, why does the fake Hot Cops drug bust fail to fool George Michael?": [
+                     "In the season one episode, Pier Pressure, why does the fake Hot Cops drug bust fail to fool George Michael?": [
                          "One of the Hot Cops is his choir teacher",
                          "He is working overtime in the banana stand at the time",
                          "Jobe has told him about the plot",
@@ -344,7 +344,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Pier Pressure, what spelling mistake does Maybe make?": [
+                     "In the season one episode, Pier Pressure, what spelling mistake does Maybe make?": [
                          "She spells minus, <say-as interpret-as=\"spell-out\">mines</say-as>",
                          "She spells banana, <say-as interpret-as=\"spell-out\">bananana</say-as>",
                          "She spells note, <say-as interpret-as=\"spell-out\">noat</say-as>",
@@ -354,7 +354,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Public Relations, why is George Michael rejected from admission to the Milford School?": [
+                     "In the season one episode, Public Relations, why is George Michael rejected from admission to the Milford School?": [
                          "The Bluth family's recent brawl at a Klimpy's restaurant",
                          "He speaks during the interview",
                          "Michael speaks during the interview",
@@ -369,7 +369,7 @@ var questions = [
                          "Sandy Uber",
                          "Luisa Velez",
                          "Jan Eagleman",
-                         "Ophelia Love",
+                         "<phoneme alphabet=\"ipa\" ph=\"oʊfiliə\">Ophelia</phoneme> Love",
                          "Beth Barely"
                      ]
                  },
@@ -384,7 +384,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Marta Complex, what gift does Marta buy for Michael?": [
+                     "In the season one episode, Marta Complex, what gift does Marta buy for Michael?": [
                          "A suit",
                          "A set of cufflinks",
                          "A watch",
@@ -394,9 +394,9 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Marta Complex, who does Lucille Austero begin dating instead of Buster?": [
+                     "In the season one episode, Marta Complex, who does Lucille Austero begin dating instead of Buster?": [
                          "Carl Weathers",
-                         "Warden Gentles",
+                         "Stefen Gentles",
                          "Michael Bluth",
                          "Wayne Jarvis",
                          "Bob Loblaw",
@@ -404,7 +404,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Marta Complex, what recipe does Carl Weathers describe to Tobias?": [
+                     "In the season one episode, Marta Complex, what recipe does Carl Weathers describe to Tobias?": [
                          "Stew",
                          "Bloody Mary",
                          "Pancakes",
@@ -414,9 +414,9 @@ var questions = [
                      ]
                  },
                  {
-                     "What is the name of Marta's fictional brother on El Amor Prohibido?": [
-                         "<phoneme alphabet=\"ipa\" ph=\"tioʊ\">Tio</phoneme",
-                         "<phoneme alphabet=\"ipa\" ph=\"eɪɹmɑnoʊ\">Hermano</phoneme",
+                     "What is the name of Marta's fictional brother on El Amor <phoneme alphabet=\"ipa\" ph=\"pɹoʊhibidoʊ\">Prohibido</phoneme>?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"tioʊ\">Tio</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"eɪɹmɑnoʊ\">Hermano</phoneme>",
                          "<phoneme alphabet=\"ipa\" ph=\"ihoʊ\">Hijo</phoneme>",
                          "<phoneme alphabet=\"ipa\" ph=\"ɑbweɪloʊ\">Abuelo</phoneme>",
                          "<phoneme alphabet=\"ipa\" ph=\"soʊbrinoʊ\">Sobrino</phoneme>",
@@ -434,7 +434,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Beef Consomme, how does Buster attempt to impress Marta?": [
+                     "In the season one episode, Beef Consomme, how does Buster attempt to impress Marta?": [
                          "Hiring a mariachi band",
                          "Serenading her outside her window",
                          "Getting in a fight with Jobe",
@@ -448,7 +448,7 @@ var questions = [
                          "Beth Barely",
                          "Rita Leeds",
                          "Jessie Bowers",
-                         "Ophelia Love",
+                         "<phoneme alphabet=\"ipa\" ph=\"oʊfiliə\">Ophelia</phoneme> Love",
                          "Edna Whitehead",
                          "Jan Eagleman"
                      ]
@@ -459,14 +459,14 @@ var questions = [
                          "Beth Barely",
                          "Rita Leeds",
                          "Jessie Bowers",
-                         "Ophelia Love",
+                         "<phoneme alphabet=\"ipa\" ph=\"oʊfiliə\">Ophelia</phoneme> Love",
                          "Jan Eagleman"
                      ]
                  },
                  {
-                     "In the season one episode Shock and Aww, what is the name of Jobe's girlfriend who dumps him at the diversity dance?": [
+                     "In the season one episode, Shock and Aww, what is the name of Jobe's girlfriend who dumps him at the diversity dance?": [
                          "Shannon",
-                         "Ophelia",
+                         "<phoneme alphabet=\"ipa\" ph=\"oʊfiliə\">Ophelia</phoneme>",
                          "Beth",
                          "Marta",
                          "Tonya",
@@ -474,8 +474,8 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Shock and Aww, who does Maybe bring as her date to the diversity dance?": [
-                         "Annyong Bluth",
+                     "In the season one episode, Shock and Aww, who does Maybe bring as her date to the diversity dance?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"anjaŋ\">Annyong</phoneme> Bluth",
                          "George Michael Bluth",
                          "Steve Holt",
                          "Paul Huan",
@@ -484,10 +484,10 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Staff Infection, which actor is said to be researching a role at the prison?": [
-                         "Steve Bushemi",
+                     "In the season one episode, Staff Infection, which actor is said to be researching a role at the prison?": [
+                         "Steve <phoneme alphabet=\"ipa\" ph=\"buʃɛmi\">Buscemi</phoneme>",
                          "Jake Jillenhall",
-                         "James Franco",
+                         "James <phoneme alphabet=\"ipa\" ph=\"fɹæŋkoʊ\">Franco</phoneme>",
                          "Carl Weathers",
                          "Brian Cranston",
                          "Zach Braff"
@@ -524,7 +524,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Altar Egos, how much money does Maybe give George Michael to do her homework instead of tutoring her?": [
+                     "In the season one episode, Altar Egos, how much money does Maybe give George Michael to do her homework instead of tutoring her?": [
                          "One hundred twenty dollars",
                          "One hundred dollars",
                          "Eighty dollars",
@@ -534,9 +534,9 @@ var questions = [
                  {
                      "Which drug did Doctor <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪz\">Funke's</phoneme> one hundred percent natural good time family band solution never have a relationship with?": [
                          "Sanidex",
-                         "Teamocil",
+                         "<phoneme alphabet=\"ipa\" ph=\"timoʊsɪl\">Teamocil</phoneme>",
                          "Zanotab",
-                         "Euphorazeen"
+                         "<phoneme alphabet=\"ipa\" ph=\"jufoʊɹəzin\">Euphorazine</phoneme>"
                      ]
                  },
                  {
@@ -550,14 +550,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Justice is Blind, which of the following is NOT a way the characters misquoted the ten commandments?": [
+                     "In the season one episode, Justice is Blind, which of the following is NOT a way the characters misquoted the ten commandments?": [
                          "As you seek so shall you find thyself",
-                         "Thou shalt protect thy father, and honor no one above him unless it <phoneme alphabet=\"ipa\" ph=\"biɪθ\">beith</phoneme> me: thy sweet Lord.",
+                         "Thou shalt protect thy father, and honor no one above him unless it <phoneme alphabet=\"ipa\" ph=\"biɪθ\">beith</phoneme> me, thy sweet Lord.",
                          "Be true to thine own self, and to thine own self be true"
                      ]
                  },
                  {
-                     "In the season one episode Justice is Blind, whose face is crossed out on the chart in the interrogation room?": [
+                     "In the season one episode, Justice is Blind, whose face is crossed out on the chart in the interrogation room?": [
                          "Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>",
                          "Kitty Sanchez",
                          "Ann Veal",
@@ -577,7 +577,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Missing Kitty, what is Warden Gentles' advice to Tobias?": [
+                     "In the season one episode, Missing Kitty, what is Warden Gentles' advice to Tobias?": [
                          "To learn real fear from White Power Bill",
                          "To use his therapist skills to reveal the real source of White Power Bill's hatred",
                          "To become the Dorothy of the prison",
@@ -586,17 +586,17 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Missing Kitty, where did Lucille Bluth hide the inheritance from her mother?": [
-                         "In a trust fund for Annyong",
+                     "In the season one episode, Missing Kitty, where did Lucille Bluth hide the inheritance from her mother?": [
+                         "In a trust fund for <phoneme alphabet=\"ipa\" ph=\"anjaŋ\">Annyong</phoneme>",
                          "In the banana stand",
                          "In the Bluth company's Iraqi holding corporation",
                          "In Bluth company stock",
-                         "In Annyong's pocket",
+                         "In <phoneme alphabet=\"ipa\" ph=\"anjaŋz\">Annyong's</phoneme> pocket",
                          "In her purse"
                      ]
                  },
                  {
-                     "In the season one episode Best Man for the Jobe, who does Jobe's wife fall in love with?": [
+                     "In the season one episode, Best Man for the Jobe, who does Jobe's wife fall in love with?": [
                          "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Ira Gilligan",
                          "Wayne Jarvis",
@@ -607,13 +607,13 @@ var questions = [
                  },
                  {
                      "Which of the following does Lucille Bluth consider to be one of her favorite brands?": [
-                         "Cloudmir",
-                         "Teamocil",
+                         "<phoneme alphabet=\"ipa\" ph=\"klaʊdmiɹ\">Cloudmir</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"timoʊsɪl\">Teamocil</phoneme>",
                          "<say-as interpret-as=\"spell-out\">YOM</say-as>"
                      ]
                  },
                  {
-                     "In the season one episode Best Man for the Jobe, who is NOT in attendance at Jobe's bachelor party?": [
+                     "In the season one episode, Best Man for the Jobe, who is NOT in attendance at Jobe's bachelor party?": [
                          "George Michael Bluth",
                          "The hot cops",
                          "Ira Gilligan",
@@ -623,7 +623,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Whistler's Mother, which song does Lindsay dance to while protesting the war in the free speech zone?": [
+                     "In the season one episode, Whistler's Mother, which song does Lindsay dance too while protesting the war in the free speech zone?": [
                          "Bad girls",
                          "All you need is smiles",
                          "The show's theme music",
@@ -633,7 +633,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Whistler's Mother, why does Lindsay decide to protest the war?": [
+                     "In the season one episode, Whistler's Mother, why does Lindsay decide to protest the war?": [
                          "Her hair stylist has been called to war",
                          "The war has led to a freeze on the Bluth Company's assets",
                          "The war has led to a fur embargo",
@@ -643,7 +643,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Whistler's Mother, why is Michael's purchase of Oscar's lemon grove a mistake?": [
+                     "In the season one episode, Whistler's Mother, why is Michael's purchase of Oscar's lemon grove a mistake?": [
                          "The government has an easement on the land",
                          "The land is actually in Mexico",
                          "A wall is being built through the land",
@@ -653,17 +653,17 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Not Without My Daughter, which group goes to the mall to prove that they are manly?": [
+                     "In the season one episode, Not Without My Daughter, which group goes to the mall to prove that they are manly?": [
                          "Tobias, George Michael, and Jobe",
                          "Jobe, George Michael, and Steve Holt",
                          "Steve Holt, Jobe, and Michael",
-                         "Buster, Annyong, and Jobe",
-                         "Annyong, Buster, and Oscar",
+                         "Buster, <phoneme alphabet=\"ipa\" ph=\"anjaŋ\">Annyong</phoneme>, and Jobe",
+                         "<phoneme alphabet=\"ipa\" ph=\"anjaŋ\">Annyong</phoneme>, Buster, and Oscar",
                          "Tobias, Buster, and George Michael"
                      ]
                  },
                  {
-                     "Fill in the blank: say what you will about America. Blank bucks still gets you a hell of a lot of mice.": [
+                     "Fill in the blank. Say what you will about America. Blank bucks still gets you a hell of a lot of mice.": [
                          "Thirteen",
                          "Fourteen",
                          "Sixteen",
@@ -673,7 +673,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one episode Not Without My Daughter, why does Lindsay pretend to be a shoplifter?": [
+                     "In the season one episode, Not Without My Daughter, why does Lindsay pretend to be a shoplifter?": [
                          "To conceal the fact that she has a job at the mall",
                          "To show George Michael that she's a cool aunt",
                          "To distract attention from her father's upcoming trial",
@@ -683,7 +683,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season one finale Let Em Eat Cake, what information does Kitty try to use to blackmail Michael?": [
+                     "In the season one finale, Let Them Eat Cake, what information does Kitty try to use to blackmail Michael?": [
                          "The Bluth Company has unpaid back taxes",
                          "George Bluth has been found in Mexico",
                          "Kitty was on the yacht when Jobe blew it up",
@@ -733,7 +733,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two premier The One Where Michael Leaves, who runs over Tobias with their car?": [
+                     "In the season two premier, The One Where Michael Leaves, who runs over Tobias with their car?": [
                          "Barry Zuckerkorn",
                          "Jobe Bluth",
                          "Lucille Bluth",
@@ -743,27 +743,27 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode The One Where They Build A House, which group does Michael employ to build the fake model home?": [
+                     "In the season two episode, The One Where They Build A House, which group does Michael employ to build the fake model home?": [
                          "Oscar Bluth, George Michael Bluth, Buster Bluth, and Tom Jane",
                          "Buster Bluth, Oscar Bluth, and Jobe Bluth",
                          "George Michael Bluth, Buster Bluth, Oscar Bluth, and Marky Bark",
-                         "Buster Bluth, Oscar Bluth, and Annyong Bluth",
+                         "Buster Bluth, Oscar Bluth, and <phoneme alphabet=\"ipa\" ph=\"anjaŋ\">Annyong</phoneme> Bluth",
                          "Oscar Bluth, Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>, George Michael Bluth, and Tom Jane",
                          "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>, Jobe Bluth, Oscar Bluth, and George Michael Bluth"
                      ]
                  },
                  {
-                     "In the season two episode The One Where They Build A House, which children's game is referenced at the ribbon cutting ceremony for the fake model home?": [
-                         "Rock, paper, scissors",
+                     "In the season two episode, The One Where They Build A House, which children's game is referenced at the ribbon cutting ceremony for the fake model home?": [
+                         "Rock paper scissors",
                          "Cat's cradle",
                          "Cops and robbers",
                          "Dodgeball",
-                         "Duck, duck, goose",
+                         "Duck duck goose",
                          "Hungry Hungry Hippos"
                      ]
                  },
                  {
-                     "Fill in the blank in this quotation from Buster: I don't agree with your blank here, but I will defend with my life your right to do it.": [
+                     "Fill in the blank in this quotation from Buster. I don't agree with your blank here, but I will defend with my life your right to do it.": [
                          "Dirty doings",
                          "Seal dealing",
                          "Sneaky selling",
@@ -772,7 +772,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Amigos, where is Michael's office while Jobe acts as Bluth Company president to appease the stockholders?": [
+                     "In the season two episode, Amigos, where is Michael's office while Jobe acts as Bluth Company president to appease the stockholders?": [
                          "A supply closet",
                          "The stair car",
                          "The Mercedes",
@@ -782,10 +782,10 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Amigos, which character is tackled more than once?": [
+                     "In the season two episode, Amigos, which character is tackled more than once?": [
                          "Michael Bluth",
                          "Oscar Bluth",
-                         "Gobe Bluth",
+                         "Jobe Bluth",
                          "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "George Bluth"
                      ]
@@ -799,15 +799,15 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Good Grief, why does Jobe perform an elaborate illusion at George's wake?": [
+                     "In the season two episode, Good Grief, why does Jobe perform an elaborate illusion at George's wake?": [
                          "To make the cover of Poof Magazine",
                          "To prevent Buster from realizing it's a wake",
-                         "To turn the wake into a wedding between himself and Anne",
+                         "To turn the wake into a wedding between himself and Anne Veal",
                          "To give George a chance to escape into the attic"
                      ]
                  },
                  {
-                     "In the season two episode Good Grief, why does Maybe try to set Lindsay up with the bounty hunter Ice?": [
+                     "In the season two episode, Good Grief, why does Maybe try to set Lindsay up with the bounty hunter, Ice?": [
                          "To build a case for emancipation from her parents",
                          "To distract Lindsay from her relationship with Steve Holt",
                          "To distract Lindsay as she prepares to run away",
@@ -826,7 +826,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Sad Sack, why does Lindsay start spending more time with Maybe?": [
+                     "In the season two episode, Sad Sack, why does Lindsay start spending more time with Maybe?": [
                          "To get closer to Steve Holt",
                          "To win her allegiance as she and Tobias prepare to split up",
                          "To keep Maybe from aligning herself with Lucille",
@@ -835,7 +835,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Sad Sack, what is former Bluth Company attorney Wayne Jarvis' new job?": [
+                     "In the season two episode, Sad Sack, what is former Bluth Company attorney Wayne Jarvis's new job?": [
                          "Prosecutor",
                          "District attorney",
                          "Attorney for Lucille Austero",
@@ -852,7 +852,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Afternoon Delight, which of the following is never claimed as the price of Jobe's suit?": [
+                     "In the season two episode, Afternoon Delight, which of the following is never claimed as the price of Jobe's suit?": [
                          "Sixteen hundred dollars",
                          "Three thousand dollars",
                          "Four thousand dollars",
@@ -863,7 +863,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Afternoon Delight, which holiday tradition do Michael and George Michael participate in?": [
+                     "In the season two episode, Afternoon Delight, which holiday tradition do Michael and George Michael participate in?": [
                          "Rebuilding the banana stand after it has been vandalized",
                          "George Michael driving the car to the Bluth Company holiday party",
                          "Wearing matching outfits to the Living Classics pageant",
@@ -871,7 +871,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Afternoon Delight, which of the following duos DOES NOT perform karaoke at the Bluth Company holiday party?": [
+                     "In the season two episode, Afternoon Delight, which of the following duos DOES NOT perform karaoke at the Bluth Company holiday party?": [
                          "Michael and George Michael",
                          "Michael and Maybe",
                          "Lindsay and George Michael"
@@ -879,16 +879,16 @@ var questions = [
                  },
                  {
                      "What was the first episode to air in the year two thousand five?": [
-                         "Season two episode seven: Switch Hitter",
-                         "Season two episode eleven: Out on a Limb",
-                         "Season one episode twelve: Marta Complex",
-                         "Season one episode five: Charity Drive",
-                         "Season three episode five: Mister F",
-                         "Season three episode eight: Making a Stand"
+                         "Season two, episode seven, Switch Hitter",
+                         "Season two, episode eleven, Out on a Limb",
+                         "Season one, episode twelve, Marta Complex",
+                         "Season one, episode five, Charity Drive",
+                         "Season three, episode five, Mister F",
+                         "Season three, episode eight, Making a Stand"
                      ]
                  },
                  {
-                     "In the season two episode Switch Hitter, which book does Maybe have a homework assignment on?": [
+                     "In the season two episode, Switch Hitter, which book does Maybe have a homework assignment on?": [
                          "The Old Man and the Sea",
                          "A Tale of Two Cities",
                          "Pride and Prejudice",
@@ -898,7 +898,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Switch Hitter, what fake holiday does Maybe invent to get out of going to school?": [
+                     "In the season two episode, Switch Hitter, what fake holiday does Maybe invent to get out of going to school?": [
                          "Help your dad follow his dreams day",
                          "Bring your niece to work day",
                          "Help your mother find a date day",
@@ -926,7 +926,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Queen for a Day, which professional sports team does Barry Zuckerkorn have a lawsuit against?": [
+                     "In the season two episode, Queen for a Day, which professional sports team does Barry Zuckerkorn have a lawsuit against?": [
                          "The Los Angeles Kings",
                          "The Los Angeles Dodgers",
                          "The Los Angeles Galaxy",
@@ -936,7 +936,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Burning Love, what does Lucille Austero give Michael in exchange for his promise to bid on her at the charity auction?": [
+                     "In the season two episode, Burning Love, what does Lucille Austero give Michael in exchange for his promise to bid on her at the charity auction?": [
                          "Usage of her country club membership",
                          "One percent of the Bluth Company",
                          "Usage of her Corvette for his date with Sally Sitwell",
@@ -947,7 +947,7 @@ var questions = [
                      "What is the name of the fictional actor who plays the fictional character Frank Wrench?": [
                          "Moses Taylor",
                          "David Carter",
-                         "Emmett Richter",
+                         "Emmett Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>",
                          "Tom Jane",
                          "Ed Helms",
                          "Phillip Litt"
@@ -964,7 +964,7 @@ var questions = [
                      ]
                  },
                  {
-                     "Which of the following has never had romantic involvement with Lucille Austero?": [
+                     "Which of the following people has never had romantic involvement with Lucille Austero?": [
                          "George Bluth",
                          "Oscar Bluth",
                          "Michael Bluth",
@@ -993,22 +993,22 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Out on a Limb, what do Lindsay and Tobias do to add excitement to their relationship?": [
+                     "In the season two episode, Out on a Limb, what do Lindsay and Tobias do to add excitement to their relationship?": [
                          "Break into Maggie Lizer's house",
                          "Start dating other people",
-                         "Develop a friendship with Debrie Bardoe and Marky Bark",
+                         "Develop a friendship with DeBrie Bar Dough and Marky Bark",
                          "Sneak out of George Bluth's trial",
                          "Plan a day to have marital relations"
                      ]
                  },
                  {
                      "In which episode is Buster's hand bitten off by a seal?": [
-                         "Season two, episode eleven: Out on a Limb",
-                         "Season two, episode twelve: Hand to God",
-                         "Season two, episode thirteen: Motherboy <say-as interpret-as=\"spell-out\">XXX</say-as>",
-                         "Season two, episode fifteen: Sword of Destiny",
-                         "Season two, episode seven: Switch Hitter",
-                         "Season two, episode eighteen: Righteous Brothers"
+                         "Season two, episode eleven, Out on a Limb",
+                         "Season two, episode twelve, Hand to God",
+                         "Season two, episode thirteen, Motherboy Thirty",
+                         "Season two, episode fifteen, Sword of Destiny",
+                         "Season two, episode seven, Switch Hitter",
+                         "Season two, episode eighteen, Righteous Brothers"
                      ]
                  },
                  {
@@ -1035,7 +1035,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Hand to God, what is written in the note George Michael retrieves from Maggie Lizer's front door?": [
+                     "In the season two episode, Hand to God, what is written in the note George Michael retrieves from Maggie Lizer's front door?": [
                          "Really eager to hear from you",
                          "Finished milk. Buy more.",
                          "A friend needs pot, can you get some?",
@@ -1044,7 +1044,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Hand to God, what does Doctor Fishman say about Buster?": [
+                     "In the season two episode, Hand to God, what does Doctor Fishman say about Buster?": [
                          "He's going to be all right",
                          "It's too late for me to do anything for your son",
                          "You look really hot",
@@ -1054,7 +1054,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Motherboy Thirty, why does Lindsay become attracted to Tobias?": [
+                     "In the season two episode, Motherboy Thirty, why does Lindsay become attracted to Tobias?": [
                          "He has the power of George Bluth due to playing him in Scandalmakers",
                          "He survives being run over by Barry Zuckerkorn",
                          "He returns from prison with a detached attitude",
@@ -1062,7 +1062,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Motherboy Thirty, who rescues George Michael from participating in Motherboy?": [
+                     "In the season two episode, Motherboy Thirty, who rescues George Michael from participating in Motherboy?": [
                          "Michael and Buster",
                          "Buster and Jobe",
                          "Lindsay and Michael",
@@ -1081,14 +1081,14 @@ var questions = [
                      ]
                  },
                  {
-                     "Which letter does not appear in the spelling of Teamocil?": [
-                         "<say-as interpret-as=\"spell-out\">S</say-as",
-                         "<say-as interpret-as=\"spell-out\">I</say-as",
-                         "<say-as interpret-as=\"spell-out\">A</say-as"
+                     "Which letter does not appear in the spelling of <phoneme alphabet=\"ipa\" ph=\"timoʊsɪl\">Teamocil</phoneme>?": [
+                         "S",
+                         "I",
+                         "A"
                      ]
                  },
                  {
-                     "In the season two episode The Immaculate Election, where does Tobias end up staying after Lindsay kicks him out of the model home?": [
+                     "In the season two episode, The Immaculate Election, where does Tobias end up staying after Lindsay kicks him out of the model home?": [
                          "The set of Wrench",
                          "Oscar's trailer",
                          "The Queen Mary",
@@ -1118,7 +1118,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Sword of Destiny, in which geographical area does Doctor Stein never claim to be the best doctor?": [
+                     "In the season two episode, Sword of Destiny, over which geographical area does Doctor Stein never claim to be the best doctor?": [
                          "Newport Beach",
                          "Orange County",
                          "Southern California",
@@ -1126,7 +1126,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Sword of Destiny, which operation does Doctor Stein NOT perform on Michael?": [
+                     "In the season two episode, Sword of Destiny, which operation does Doctor Stein NOT perform on Michael?": [
                          "Swapping his middle and index fingers",
                          "Shortening his calf muscle",
                          "Appendectomy",
@@ -1134,7 +1134,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Sword of Destiny, Tony Wonder's website is plagued by pop up ads for what?": [
+                     "In the season two episode, Sword of Destiny, Tony Wonder's website is plagued by pop up ads for what?": [
                          "Family Guy",
                          "The Cornballer",
                          "The Brady Bunch Movie",
@@ -1143,7 +1143,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Meat the Veals, which group abducts Lucille to take her to the vow renewal ceremony?": [
+                     "In the season two episode, Meat the Veals, which group abducts Lucille to take her to the vow renewal ceremony?": [
                          "Jobe, Franklin, and George Senior",
                          "George Senior and Buster",
                          "Tobias, George Senior, and Jobe"
@@ -1170,7 +1170,7 @@ var questions = [
                  {
                      "Which actor portrays Phillip Litt?": [
                          "Zach Braff",
-                         "Dave Attell",
+                         "Dave Atell",
                          "Jeff Garlin",
                          "Ed Begley Junior",
                          "Ed Helms",
@@ -1178,7 +1178,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two episode Spring Breakout, the rehab facility Shady Pines is named after a retirement community in which show that Mitchell Hurwitz previously wrote for?": [
+                     "In the season two episode, Spring Breakout, the rehab facility Shady Pines is named after a retirement community in which show that Mitchell Hurwitz previously wrote for?": [
                          "The Golden Girls",
                          "Designing Women",
                          "Family Guy",
@@ -1196,9 +1196,9 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season two finale Righteous Brothers, why does George Michael decide not to break up with Ann?": [
+                     "In the season two finale, Righteous Brothers, why does George Michael decide not to break up with Ann?": [
                          "He thinks she might kiss him at a protest",
-                         "He thinks Maybe might be his real cousin",
+                         "He thinks Maybe might be his biological cousin",
                          "He is tired of Michael trying to control him",
                          "He wants to make Maybe jealous",
                          "He wants to stop her from dating Jobe"
@@ -1210,7 +1210,7 @@ var questions = [
                          "Green Giant",
                          "Double Take",
                          "Ovaltine",
-                         "Manwich",
+                         "Man which",
                          "Big Daddy's"
                      ]
                  },
@@ -1225,7 +1225,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three premiere The Cabin Show, what was Jim Cramer's rating for Bluth Company stock before upgrading it to Don't Buy?": [
+                     "In the season three premiere, The Cabin Show, what was Jim Cramer's rating for Bluth Company stock before upgrading it to Don't Buy?": [
                          "Triple sell",
                          "Double negative",
                          "Two thumbs down",
@@ -1235,7 +1235,7 @@ var questions = [
                      ]
                  },
                  {
-                     "On I'm Oscar Dot Com, Oscar has the same inmate number as which famous fictional inmate?": [
+                     "On the website, I'm Oscar Dot Com, Oscar has the same inmate number as which famous fictional inmate?": [
                          "John Valjohn",
                          "Ivan Denisovich",
                          "The count of Monte Cristo",
@@ -1243,14 +1243,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three premiere The Cabin Show, who does Lucille refer to as some sort of scientist?": [
+                     "In the season three premiere, The Cabin Show, who does Lucille refer to as some sort of scientist?": [
                          "Tom Cruise",
                          "John Travolta",
                          "Kirstie Alley"
                      ]
                  },
                  {
-                     "In the season three episode For British Eyes Only, which vehicle does Michael give Lindsay after she asks for a new car?": [
+                     "In the season three episode, For British Eyes Only, which vehicle does Michael give Lindsay after she asks for a new car?": [
                          "The cabin car",
                          "The stair car",
                          "The segway",
@@ -1287,7 +1287,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Forget Me Now, why does Buster knock Rita to the ground?": [
+                     "In the season three episode, Forget Me Now, why does Buster knock Rita to the ground?": [
                          "She is wearing a seal backpack",
                          "She stares at his hook",
                          "She ignores him",
@@ -1297,12 +1297,12 @@ var questions = [
                  },
                  {
                      "Which guest star also appeared in Happy Days, where he was introduced in order to appeal to younger audiences?": [
-                         "Scott Baio",
+                         "Scott <phoneme alphabet=\"ipa\" ph=\"beɪoʊ\">Baio</phoneme>",
                          "Dave Thomas",
                          "Ben Stiller",
                          "Martin Mull",
                          "Mark Cherry",
-                         "Andy Richter"
+                         "Andy Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>"
                      ]
                  },
                  {
@@ -1320,7 +1320,7 @@ var questions = [
                          "Hope",
                          "Shirley",
                          "Emma",
-                         "Mauve",
+                         "<phoneme alphabet=\"ipa\" ph=\"mɔv\">Mauve</phoneme>",
                          "Tina",
                          "Penny"
                      ]
@@ -1331,7 +1331,7 @@ var questions = [
                          "Lindsay coaches Hope Loblaw, Tobias coaches Maybe",
                          "Lindsay coaches Maybe, Tobias coaches Ann",
                          "Lindsay coaches Maybe, Tobias coaches Hope Loblaw",
-                         "Lindsay coaches Ann, Tobias coachesh Maybe",
+                         "Lindsay coaches Ann, Tobias coaches Maybe",
                          "Lindsay coaches Ann, Tobias coaches Hope Loblaw"
                      ]
                  },
@@ -1346,7 +1346,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Mister F, what does Michael give George Michael for his birthday?": [
+                     "In the season three episode, Mister F, what does Michael give George Michael for his birthday?": [
                          "A Jack Welch suit and a copy of Quicken",
                          "A jet pack and a copy of Quickbooks",
                          "A receipt scanner and a subscription to Salesforce",
@@ -1354,7 +1354,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Mister F, Michael finds Tobias on the floor after he got how many hair plugs in one sitting?": [
+                     "In the season three episode, Mister F, Michael finds Tobias on the floor after he got how many hair plugs in one sitting?": [
                          "Four thousand",
                          "Five thousand",
                          "Ten thousand",
@@ -1368,8 +1368,8 @@ var questions = [
                          "<phoneme alphabet=\"ipa\" ph=\"leɪ kuzɑŋ dɑŋd͡ʒɚɹɝ\">Les Cousins Dangereux</phoneme>",
                          "Homeless Dad",
                          "Almost Cousins",
-                         "Gangee",
-                         "A Thorougly Polite Dustup",
+                         "<phoneme alphabet=\"ipa\" ph=\"gæŋgi\">Gangee</phoneme>",
+                         "A Thoroughly Polite Dustup",
                          "The Young Man and the Beach",
                          "Snowboarding School Two"
                      ]
@@ -1386,7 +1386,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode The Ocean Walker, how long does Rita claim to be able to hold her breath?": [
+                     "In the season three episode, The Ocean Walker, how long does Rita claim to be able to hold her breath?": [
                          "Twenty minutes",
                          "Ten minutes",
                          "Fifteen minutes",
@@ -1396,7 +1396,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode The Ocean Walker, which show does Michael watch with George Senior over the phone while pretending Rita is in the shower?": [
+                     "In the season three episode, The Ocean Walker, which show does Michael watch with George Senior over the phone while pretending Rita is in the shower?": [
                          "E True Hollywood Story",
                          "Access Hollywood",
                          "Entertainment Tonight",
@@ -1404,7 +1404,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Prison Break In, how does Michael console himself after his breakup with Rita?": [
+                     "In the season three episode, Prison Break In, how does Michael console himself after his breakup with Rita?": [
                          "Playing guitar",
                          "Eating an entire thing of candy beans",
                          "Taking George Michael on a fishing trip",
@@ -1412,7 +1412,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Prison Break In, which screenplay does Maybe ask George Michael to read for her?": [
+                     "In the season three episode, Prison Break In, which screenplay does Maybe ask George Michael to read for her?": [
                          "New Warden",
                          "Homeless Dad",
                          "Almost Cousins",
@@ -1421,7 +1421,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Prison Break In, who does Michael refer to as, her?": [
+                     "In the season three episode, Prison Break In, who does Michael refer to as. Her?": [
                          "Lucille Bluth",
                          "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Ann Veal",
@@ -1431,7 +1431,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Making a Stand, Jobe wants to sell Bluth Company blueprints to our Mexican friends down in which country?": [
+                     "In the season three episode, Making a Stand, Jobe wants to sell Bluth Company blueprints to our Mexican friends down in which country?": [
                          "Colombia",
                          "Portugal",
                          "Venezuela",
@@ -1441,7 +1441,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Making a Stand, which of the following is NOT part of a competition tactic used by one of the two banana stands?": [
+                     "In the season three episode, Making a Stand, which of the following is NOT part of a competition strategy used by one of the two banana stands?": [
                          "Distributing flyers on the boardwalk",
                          "A banana suit",
                          "A jetpack",
@@ -1451,7 +1451,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Making a Stand, the Guatemalan painter Rolando has taken improv classes at which theater?": [
+                     "In the season three episode, Making a Stand, the Guatemalan painter Rolondo has taken improv classes at which theater?": [
                          "The Groundlings",
                          "Upright Citizens Brigade",
                          "Improv Olympic",
@@ -1461,7 +1461,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode S.O.B's, what is written in the letter from the Openings school that Lindsay and Tobias don't read?": [
+                     "In the season three episode, S.O.B's, what is written in the letter from the Openings school that Lindsay and Tobias don't read?": [
                          "Maybe is about to be expelled",
                          "Maybe has been sleeping at the school",
                          "Maybe is a secret movie studio executive",
@@ -1470,7 +1470,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode S.O.B's, which Richter quintuplet is poisoned by the muffin man?": [
+                     "In the season three episode, S.O.B's, which Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme> quintuplet is poisoned by the muffin man?": [
                          "Donnie",
                          "Andy",
                          "Emmett",
@@ -1479,7 +1479,7 @@ var questions = [
                      ]
                  },
                  {
-                     "Which Richter quintuplet does not like to have his face shown on television?": [
+                     "Which Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme> quintuplet does not like to have his face shown on television?": [
                          "Emmett",
                          "Donnie",
                          "Andy",
@@ -1498,17 +1498,17 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Fakin It, who is Lindsay's love interest?": [
+                     "In the season three episode, Fakin It, who is Lindsay's love interest?": [
                          "The son of Buster's hospital roommate",
                          "Tom Jane",
                          "James Carr",
                          "Moses Taylor",
-                         "Larry Middleman",
+                         "Larry Middlemen",
                          "Marky Bark"
                      ]
                  },
                  {
-                     "In the season three episode Fakin It, which issue is Lindsay temporarily passionate about?": [
+                     "In the season three episode, Fakin It, which issue is Lindsay temporarily passionate about?": [
                          "The right to pull the plug",
                          "Saving the wetlands",
                          "Removing the ten commandments from the county courthouse",
@@ -1524,12 +1524,12 @@ var questions = [
                          "Jan Eagleman",
                          "Rebel Alley",
                          "Young Lucille Bluth",
-                         "Debrie Bardeaux",
+                         "DeBrie Bar Dough",
                          "Jobe's wife"
                      ]
                  },
                  {
-                     "In the season three episode Family Ties, when Michael first arrives at the office, one of the <phoneme alphabet=\"ipa\" ph=\"sʌpoʊzɛd\">supposed</phoneme> computers an employee is holding is in fact what?": [
+                     "In the season three episode, Family Ties, when Michael first arrives at the office, one of the computers an employee is holding is actually what?": [
                          "A toaster oven",
                          "A homefill",
                          "A record player",
@@ -1538,14 +1538,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Family Ties, why is George sitting in Buster's room surrounded by computer equipment from the Bluth Company office?": [
+                     "In the season three episode, Family Ties, why is George sitting in Buster's room surrounded by computer equipment from the Bluth Company office?": [
                          "He is trying to delete the hard drives",
                          "He is in the midst of a Black Friday firing spree",
                          "He is searching for information on N Bluth"
                      ]
                  },
                  {
-                     "In the season three episode Exit Strategy, what is the name of the nurse who falls in love with supposedly comatose Buster?": [
+                     "In the season three episode, Exit Strategy, what is the name of the nurse who falls in love with supposedly comatose Buster?": [
                          "Adelaide",
                          "Victoria",
                          "Sydney",
@@ -1564,7 +1564,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three episode Exit Strategy, why did Maybe lose her movie studio job?": [
+                     "In the season three episode, Exit Strategy, why did Maybe lose her movie studio job?": [
                          "George Michael invited her coworkers to her sweet sixteen surprise party",
                          "Tobias dropped her off at work in the stair car",
                          "Lindsay and Lucille attended a studio tour drunk",
@@ -1581,7 +1581,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three finale Development Arrested, what was Jim Cramer's rating for Bluth Company stock after upgrading it from Don't Buy?": [
+                     "In the season three finale, Development Arrested, what was Jim Cramer's rating for Bluth Company stock after upgrading it from Don't Buy?": [
                          "Risky",
                          "Double negative",
                          "Two thumbs down",
@@ -1591,13 +1591,13 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season three finale Development Arrested, who makes Lindsay realize she is almost forty?": [
+                     "In the season three finale, Development Arrested, who makes Lindsay realize she is almost forty?": [
                          "Stan Sitwell",
                          "George Bluth",
                          "Barry Zuckerkorn",
                          "Lucille Austero",
                          "Doctor Fishman",
-                         "Larry Middleman"
+                         "Larry Middlemen"
                      ]
                  },
                  {
@@ -1611,7 +1611,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four premiere Flight of the Phoenix, why has George Michael been given an extra large dorm room?": [
+                     "In the season four premiere, Flight of the Phoenix, why has George Michael been given an extra large dorm room?": [
                          "The housing office thought he was two people",
                          "P Hound is scheduled to move in at the beginning of second semester",
                          "The housing administrator is a Milford Academy graduate",
@@ -1628,7 +1628,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Borderline Personalities, which of the following is NOT one of Oscar's friends?": [
+                     "In the season four episode, Borderline Personalities, which of the following is NOT one of Oscar's friends?": [
                          "Divine Spirit",
                          "Heartfire",
                          "Doctor Norman",
@@ -1646,7 +1646,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Borderline Personalities, which actor portrays the young Barry Zuckerkorn?": [
+                     "In the season four episode, Borderline Personalities, which actor portrays the young Barry Zuckerkorn?": [
                          "Max Winkler",
                          "John Slattery",
                          "Allan Wasserman",
@@ -1656,7 +1656,7 @@ var questions = [
                      ]
                  },
                  {
-                     "The season four episode Indian Takers revolves around which character?": [
+                     "The season four episode, Indian Takers, revolves around which character?": [
                          "Lindsay",
                          "Tobias",
                          "Michael",
@@ -1666,7 +1666,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Indian Takers, which item is C.W. Swappigan's no longer accepting for barter?": [
+                     "In the season four episode, Indian Takers, which item is C.W. Swappigan's no longer accepting for barter?": [
                          "Hotel soaps",
                          "Butter",
                          "Cocktail trays",
@@ -1675,7 +1675,7 @@ var questions = [
                      ]
                  },
                  {
-                     "Which actor portrays DeBrie Bardeaux?": [
+                     "Which actor portrays DeBrie Bar Dough?": [
                          "Maria Bamford",
                          "Debra Mooney",
                          "Jessica Chaffin",
@@ -1685,7 +1685,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode The B Team, which part does Michael want Rebel Alley to play in the movie about the Bluth family?": [
+                     "In the season four episode, The B Team, which part does Michael want Rebel Alley to play in the movie about the Bluth family?": [
                          "Tracey Bluth",
                          "Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
@@ -1695,19 +1695,19 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode The B Team, what team does Michael assemble to meet with Ron Howard about the Bluth Family movie?": [
-                         "Stefan Gentles, Andy Richter, and Carl Weathers",
-                         "Carl Weathers, Donnie Richter, and Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
-                         "Rebel Alley, Stefan Gentles, and Brian Grazer",
+                     "In the season four episode, The B Team, what team does Michael assemble to meet with Ron Howard about the Bluth Family movie?": [
+                         "Stefen Gentles, Andy Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>, and Carl Weathers",
+                         "Carl Weathers, Donnie Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>, and Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Rebel Alley, Stefen Gentles, and Brian Grazer",
                          "Mike Dawkins, Carl Weathers, and Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Carl Weathers, Jobe Bluth, and Franklin",
-                         "Stefan Gentles, Carl Weathers, and Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
+                         "Stefen Gentles, Carl Weathers, and Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
                      ]
                  },
                  {
-                     "In the season four episode The B Team, which of the following is NOT mentioned as one of Imagine Entertainment's films?": [
+                     "In the season four episode, The B Team, which of the following is NOT mentioned as one of Imagine Entertainment's films?": [
                          "Life of Pi",
-                         "Coccoon",
+                         "Cocoon",
                          "How the Grinch Stole Christmas",
                          "Splash",
                          "Curious George",
@@ -1716,7 +1716,7 @@ var questions = [
                      ]
                  },
                  {
-                     "The season four episode A New Start revolves around which character?": [
+                     "The season four episode, A New Start, revolves around which character?": [
                          "Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Michael Bluth",
@@ -1726,14 +1726,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode A New Start, which section of the book Eat, Pray, Love do Lindsay and Tobias both skip?": [
+                     "In the season four episode, A New Start, which section of the book, Eat Pray Love, do Lindsay and Tobias both skip?": [
                          "Love",
                          "Eat",
                          "Pray"
                      ]
                  },
                  {
-                     "In the season four episode A New Start, which show do the Indian interns say has just reached India?": [
+                     "In the season four episode, A New Start, which show do the Indian interns say has just reached India?": [
                          "Laugh In",
                          "Baywatch",
                          "Melrose Place",
@@ -1743,24 +1743,24 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Double Crossers, who said, Do I look like someone who eats at C.W. Swappigan's?": [
+                     "In the season four episode, Double Crossers, who said, Do I look like someone who eats at C.W. Swappigan's?": [
                          "Herbert Love",
                          "George Bluth",
-                         "Andy Richter",
-                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme",
+                         "Andy Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
                          "Jobe Bluth",
                          "Lucille Bluth"
                      ]
                  },
                  {
-                     "In the season four episode Double Crossers, who describes George Senior's testosterone levels as somewhere in the baby range?": [
+                     "In the season four episode, Double Crossers, who describes George Senior's testosterone levels as somewhere in the baby range?": [
                          "Doctor Norman",
                          "Doctor Stein",
                          "Doctor Fishman"
                      ]
                  },
                  {
-                     "The season four episode Double Crossers features George Senior running a sweat lodge in the desert. Which main characters do not appear in this episode?": [
+                     "The season four episode, Double Crossers, features George Senior running a sweat lodge in the desert. Which main characters do not appear in this episode?": [
                          "Tobias, Maybe, and George Michael",
                          "George Michael, Lucille, and Lindsay",
                          "Maybe, Lucille, and Buster",
@@ -1780,7 +1780,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Colony Collapse, Jobe survived for two weeks in a storage locker eating only what?": [
+                     "In the season four episode, Colony Collapse, Jobe survived for two weeks in a storage locker eating only what?": [
                          "Red licorice vines",
                          "Wheat Thins",
                          "Junior Mints",
@@ -1790,7 +1790,7 @@ var questions = [
                      ]
                  },
                  {
-                     "How many exclamation points are in the name Steve Holt Pest Control Business?": [
+                     "How many exclamation points are in the name, Steve Holt Pest Control Business?": [
                          "One",
                          "Zero",
                          "Two",
@@ -1808,14 +1808,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Red Hairing, what fake name does Lindsay give to Herbert Love?": [
+                     "In the season four episode, Red Hairing, what fake name does Lindsay use to introduce herself to Herbert Love?": [
                          "Cindy Featherbottom",
-                         "Shari Cutestory",
+                         "Sharon Cutestory",
                          "Lindsay Maharris"
                      ]
                  },
                  {
-                     "In the season four episode Red Hairing, what does the crowd chat at Cinco de Cuatro?": [
+                     "In the season four episode, Red Hairing, what does the crowd chat at Cinco de Cuatro?": [
                          "Put up this wall",
                          "Don't buy",
                          "Speech",
@@ -1833,10 +1833,10 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Smashed, who is NOT in the group session led by Tobias at the Austerity clinic?": [
+                     "In the season four episode, Smashed, who is NOT in the group session led by Tobias at the Austerity clinic?": [
                          "Marky Bark",
-                         "DeBrie Bardeaux",
-                         "Emmett Richter",
+                         "DeBrie Bar Dough",
+                         "Emmett Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme>",
                          "Mark Cherry"
                      ]
                  },
@@ -1859,14 +1859,14 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Queen B, why does Lucille push Oscar away on the night of Cinco de Cuatro?": [
+                     "In the season four episode, Queen B, why does Lucille push Oscar away on the night of Cinco de Cuatro?": [
                          "She notices a Lucille Austero sticker on his pants",
                          "She notices a blue handprint on his chest",
                          "She finds out he has been filling in for George who has low testosterone"
                      ]
                  },
                  {
-                     "What is DeBrie Bardeaux's part in Fantastic Four: An Action Musical?": [
+                     "What is DeBrie Bar Dough's part in the show, Fantastic Four: An Action Musical?": [
                          "Sue Storm",
                          "Misses Fantastic",
                          "The Thing",
@@ -1876,11 +1876,11 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode A New Attitude, Jobe and Tony Wonder bond at Tony Wonder's house over what?": [
+                     "In the season four episode, A New Attitude, Jobe and Tony Wonder, bond at Tony Wonder's house over what?": [
                          "Wine and popcorn",
                          "Mike's Hard Lemonade and ice cream",
                          "Zima and Chinese food",
-                         "Strawberry Andre and In N Out"
+                         "Strawberry Andre and Inn En Out"
                      ]
                  },
                  {
@@ -1888,23 +1888,21 @@ var questions = [
                          "Sally Sitwell",
                          "Trisha Thoon",
                          "Starla",
-                         "DeBrie Bardeaux",
+                         "DeBrie Bar Dough",
                          "Kitty Sanchez",
                          "Rebel Alley"
                      ]
                  },
                  {
-                     "What is the name of Pastor Veal's co-host on And As It Is Such, So Also As Such Is It Unto You?": [
+                     "What is the name of Pastor Veal's co-host on the show, And As It Is Such, So Also As Such Is It Unto You?": [
                          "Father Marsala",
-                         "Father Scaloppini",
                          "Father Parmigiana",
-                         "Father Scaloppini",
                          "Father Tartare",
                          "Father Ossobuco"
                      ]
                  },
                  {
-                     "The season four episode Senioritis revolves around which character?": [
+                     "The season four episode, Senioritis, revolves around which character?": [
                          "Maybe",
                          "Lucille",
                          "George",
@@ -1914,22 +1912,22 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Senioritis, how does Maybe plan to teach her parents a lesson?": [
+                     "In the season four episode, Senioritis, how does Maybe plan to teach her parents a lesson?": [
                          "Failing out of high school",
                          "Travelling to India to film a movie",
                          "Going back to repeat her senior year of high school"
                      ]
                  },
                  {
-                     "In the season four episode Senioritis, who does Maybe date until she determines that he's an undercover cop?": [
-                         "Perfecto Telles",
+                     "In the season four episode, Senioritis, who does Maybe date until she determines that he's an undercover cop?": [
+                         "Perfecto Tellas",
                          "Paul Huan",
                          "Steve Holt",
-                         "Rocky Richter-Wang"
+                         "Rocky Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme> Wang"
                      ]
                  },
                  {
-                     "In the season four episode It Gets Better, we learn that George Michael was in a love triangle his sophomore year of college with which two people?": [
+                     "In the season four episode, It Gets Better, we learn that George Michael was in a love triangle his sophomore year of college with which two people?": [
                          "Ray and Becky",
                          "Maybe and Perfecto",
                          "Jobe and the Spanish housewife",
@@ -1949,7 +1947,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode It Gets Better, how much does George Michael pay to trademark the name Fakeblock?": [
+                     "In the season four episode, It Gets Better, how much does George Michael pay to trademark the name Fakeblock?": [
                          "Five thousand dollars",
                          "Three times ninety nine cents",
                          "Three thousand dollars",
@@ -1959,7 +1957,7 @@ var questions = [
                      ]
                  },
                  {
-                     "The season four episode Off the Hook revolves around which character?": [
+                     "The season four episode, Off the Hook, revolves around which character?": [
                          "Buster",
                          "George",
                          "Maybe",
@@ -1969,7 +1967,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Off the Hook, which location does Buster destroy as a drone pilot?": [
+                     "In the season four episode, Off the Hook, which location does Buster destroy as a drone pilot?": [
                          "A hospital in Spain",
                          "A school in Brazil",
                          "A nursing home in Peru",
@@ -1979,7 +1977,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Off the Hook, why is Buster discharged from the army?": [
+                     "In the season four episode, Off the Hook, why is Buster discharged from the army?": [
                          "He fails the Q-test",
                          "He fails to scale the wall",
                          "He refuses to operate a drone remotely",
@@ -1988,15 +1986,15 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Blockheads, why does George Michael fire Maybe from Fakeblock?": [
-                         "For overhyping the company",
-                         "For skipping work to produce the movie Gangee on the Ganges",
+                     "In the season four episode, Blockheads, why does George Michael fire Maybe from Fakeblock?": [
+                         "For over hyping the company",
+                         "For skipping work to produce the movie, <phoneme alphabet=\"ipa\" ph=\"gæŋgi\">Gangee</phoneme> on the Ganges",
                          "For telling Rebel Alley his real name",
                          "For violating a patent on security software"
                      ]
                  },
                  {
-                     "In the season four episode Blockheads, Jobe hires a group of people from which country to build the wall between the U.S. and Mexico?": [
+                     "In the season four episode, Blockheads, Jobe hires a group of people from which country to build the wall between the U.S. and Mexico?": [
                          "Mongolia",
                          "Colombia",
                          "Canada",
@@ -2006,7 +2004,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In the season four episode Blockheads, Buster is arrested for the murder of whom?": [
+                     "In the season four episode, Blockheads, Buster is arrested for the murder of whom?": [
                          "Lucille Austero",
                          "Rebel Alley",
                          "Tony Wonder",
