@@ -2302,7 +2302,7 @@ function handleAnswerRequest(intent, session, callback) {
 
         if (answerSlotValid && parseInt(intent.slots.Answer.value) == correctAnswerIndex) {
             currentScore++;
-            speechOutputAnalysis = "That answer is correct. ";
+            speechOutputAnalysis = "Incredible! ";
         } else {
             if (!userGaveUp) {
                 speechOutputAnalysis = "You've made a huge mistake. "
@@ -2312,7 +2312,7 @@ function handleAnswerRequest(intent, session, callback) {
         // if currentQuestionIndex is 4, we've reached 5 questions (zero-indexed) and can exit the game session
         if (currentQuestionIndex == GAME_LENGTH - 1) {
         	var grade = currentScore / GAME_LENGTH;
-            speechOutput = userGaveUp ? "" : speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
+            speechOutput = speechOutputAnalysis + "You got " + currentScore.toString() + " out of "
                     + GAME_LENGTH.toString() + " questions correct. ";
         	if(grade == 0) {
         		speechOutput += "You've fluctuated in your learning.";
@@ -2325,7 +2325,7 @@ function handleAnswerRequest(intent, session, callback) {
         	} else if(grade <= 0.999) {
         		speechOutput += "Your grade is an <say-as interpret-as=\"spell-out\">A</say-as> minus. An <say-as interpret-as=\"spell-out\">A</say-as> gets you ice cream. You know that.";
         	} else {
-        		speechOutput += "Incredible! You're having an incredible year.";
+        		speechOutput += "You're having an incredible year!";
         	}
             callback(session.attributes,
                 buildSpeechletResponse(CARD_TITLE, speechOutput, "", true));
@@ -2341,7 +2341,7 @@ function handleAnswerRequest(intent, session, callback) {
             for (var i = 0; i < ANSWER_COUNT; i++) {
                 repromptText += (i+1).toString() + ". " + roundAnswers[i] + ". "
             }
-            speechOutput = userGaveUp ? "" : speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
+            speechOutput = speechOutputAnalysis + "Your score is " + currentScore.toString() + ". " + repromptText;
 
             sessionAttributes = {
                 "speechOutput": repromptText,
