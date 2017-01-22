@@ -225,7 +225,7 @@ var questions = [
                      ]
                  },
                  {
-                     "The full series included how many total episodes?": [
+                     "Seasons one through four included how many total episodes?": [
                          "Sixty eight",
                          "Fifty three",
                          "Seventy two",
@@ -306,7 +306,7 @@ var questions = [
                      ]
                  },
                  {
-                     "In which episode did George Bluth convert to Judaism?": [
+                     "In which episode does George Bluth convert to Judaism?": [
                          "Season one, episode nine, Storming the Castle",
                          "Season one, episode seventeen, Justice is Blind",
                          "Season one, episode fifteen, Staff Infection",
@@ -713,7 +713,7 @@ var questions = [
                      ]
                  },
                  {
-                     "How many episodes did Oscar Bluth appear in?": [
+                     "In seasons one through four, how many episodes did Oscar Bluth appear in?": [
                          "Twenty six",
                          "Thirteen",
                          "Thirty four",
@@ -2012,6 +2012,423 @@ var questions = [
                          "Doctor Stein",
                          "Stan Sitwell"
                      ]
+                 },
+                 {
+                     "What is Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>'s date of birth?": [
+                         "September twenty second, nineteen ninety",
+                         "December twenty fourth, nineteen eighty seven",
+                         "January second, nineteen eighty five",
+                         "May first, nineteen eighty nine"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, what percentage of episodes did Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme> appear in?": [
+                         "Ninety percent",
+                         "Ninety four percent",
+                         "Eighty seven percent",
+                         "Eighty eight percent",
+                         "Ninety six percent",
+                         "Seventy nine percent"
+                     ]
+                 },
+                 {
+                     "How much money did the Bluth family spend on fertility services for Lindsay and Tobias?": [
+                         "One hundred thirty thousand dollars",
+                         "Two hundred thousand dollars",
+                         "Two hundred thirty thousand dollars",
+                         "One hundred eighty thousand dollars",
+                         "One hundred ninety thousand dollars",
+                         "Two hundred twenty thousand dollars"
+                     ]
+                 },
+                 {
+                     "In what year did the <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme> family move from Boston to Newport Beach?": [
+                         "Two thousand three",
+                         "Two thousand one",
+                         "Two thousand two",
+                         "Two thousand four",
+                         "Nineteen ninety nine",
+                         "Nineteen ninety eight"
+                     ]
+                 },
+                 {
+                     "What is Ann Veal's middle name?": [
+                         "Paul",
+                         "Terry",
+                         "Marsala",
+                         "Kernel",
+                         "Lynn",
+                         "V"
+                     ]
+                 },
+                 {
+                     "Which of the following are some of the names Michael Bluth calls Ann Veal?": [
+                         "Plant, Yam, Egg, Mouth, and Blank",
+                         "Ann Hog, Yam, Mouth, Fog, and Blank",
+                         "Plant, Blank, Egg, Plain, and Blanket",
+                         "Blank, Floor, Yam, Ann Hog, and Plain",
+                         "Bland, Egg, Block, Blank, and Mouth",
+                         "Yam, Mouth, Plain, Plant, and Block"
+                     ]
+                 },
+                 {
+                     "Which character did Mitchell Hurwitz originally intend to be played by a different actor in each appearance?": [
+                         "Ann Veal",
+                         "Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>",
+                         "Kitty Sanchez"
+                     ]
+                 },
+                 {
+                     "What country is Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme> from?": [
+                         "Colombia",
+                         "Guatemala",
+                         "Nicaragua",
+                         "Ecuador",
+                         "Venezuela",
+                         "El Salvador"
+                     ]
+                 },
+                 {
+                     "What are the names of Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>'s sons?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"əmɑbleɪ\">Amable</phoneme> and Cortezio",
+                         "<phoneme alphabet=\"ipa\" ph=\"iɦoʊ\">Hijo</phoneme> and Planeta",
+                         "Cometa and Fernando"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, how many episodes did Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme> appear in?": [
+                         "Seven",
+                         "Eight",
+                         "Six",
+                         "Five",
+                         "Four"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, what percentage of episodes did Jobe Bluth appear in?": [
+                         "Ninety seven percent",
+                         "Ninety eight percent",
+                         "Ninety five percent",
+                         "Ninety four percent",
+                         "Ninety six percent",
+                         "Ninety three percent"
+                     ]
+                 },
+                 {
+                     "What reason does Jobe give for having started his magic career?": [
+                         "To get out of gym class",
+                         "To destroy George Senior's yacht",
+                         "To make use of his girlfriend's pet doves",
+                         "To avoid jury duty"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, how many episodes did Steve Holt appear in?": [
+                         "Thirteen",
+                         "Eleven",
+                         "Sixteen",
+                         "Nine",
+                         "Fifteen",
+                         "Nineteen"
+                     ]
+                 },
+                 {
+                     "Which seasons does Bob Loblaw appear in?": [
+                         "Three and four",
+                         "Two and three",
+                         "Two and four"
+                     ]
+                 },
+                 {
+                     "What is George Michael Bluth's date of birth?": [
+                         "November second, nineteen ninety",
+                         "September twenty second, nineteen ninety",
+                         "December twenty fourth, nineteen eighty seven",
+                         "January second, nineteen eighty five",
+                         "May first, nineteen eighty nine"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes did not feature an appearance by George Michael Bluth?": [
+                         "Seven",
+                         "Eight",
+                         "Five",
+                         "Three",
+                         "Four",
+                         "Six"
+                     ]
+                 },
+                 {
+                     "In the season two episode The Immaculate Election, what percentage of the vote for student council does George Michael receive?": [
+                         "Three percent",
+                         "Two percent",
+                         "Two point five percent",
+                         "Four percent",
+                         "One point nine percent",
+                         "Two point eight percent"
+                     ]
+                 },
+                 {
+                     "George Michael develops Fakeblock to get into which school?": [
+                         "Juliard",
+                         "Oberlin",
+                         "Berkeley College of Music",
+                         "Harvard",
+                         "N Y U"
+                     ]
+                 },
+                 {
+                     "George Maharis and Perfecto Tellas were named after real life people who had which profession?": [
+                         "Actors",
+                         "Magicians",
+                         "Radio hosts",
+                         "Opera singers",
+                         "Handball players",
+                         "Speed skaters"
+                     ]
+                 },
+                 {
+                     "What is Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>'s middle name?": [
+                         "Onyango",
+                         "Adolfo",
+                         "Gerhard",
+                         "Reinhold",
+                         "Zelig",
+                         "Waldo"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, what percentage of episodes did Tobias <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme> appear in?": [
+                         "Eighty seven percent",
+                         "Eighty nine percent",
+                         "Ninety percent",
+                         "Ninety one percent",
+                         "Ninety three percent",
+                         "Ninety two percent"
+                     ]
+                 },
+                 {
+                     "Which mark appears in Annyong Bluth's real name, Hello?": [
+                         "A hyphen",
+                         "An exclamation point",
+                         "A circumflex",
+                         "An overdot",
+                         "An apostrophe",
+                         "A circle"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes did Annyong Bluth appear in?": [
+                         "Twelve",
+                         "Nine",
+                         "Eleven",
+                         "Ten",
+                         "Thirteen",
+                         "Fourteen"
+                     ]
+                 },
+                 {
+                     "What were Lucille and Buster arguing about when Lucille angrily signed the forms to adopt Annyong?": [
+                         "Cottage cheese",
+                         "<phoneme alphabet=\"ipa\" ph=\"mɑʒɑŋ\">mahjong</phoneme>",
+                         "A sweater",
+                         "Jobe",
+                         "Vodka",
+                         "Army"
+                     ]
+                 },
+                 {
+                     "What does the word Hel-loh mean in the Korean language?": [
+                         "Day",
+                         "Goodbye",
+                         "Son",
+                         "Chicken",
+                         "Ocean",
+                         "Travel"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, what percentage of episodes does Buster Bluth appear in?": [
+                         "Eighty five percent",
+                         "Eighty seven percent",
+                         "Eighty nine percent",
+                         "Ninety one percent",
+                         "Ninety two percent",
+                         "Ninety four percent"
+                     ]
+                 },
+                 {
+                     "How many hours does Buster spend controlling drone planes for the army before finding out he is controlling real weapons?": [
+                         "Seventy two hours",
+                         "Thirty six hours",
+                         "Eighteen hours",
+                         "Twenty six hours",
+                         "Forty eight hours"
+                     ]
+                 },
+                 {
+                     "The name of Buster's nurse, Nurse Ratchet, is a play on the name of a nurse who performs lobotomies in which book?": [
+                         "One Flew Over the Cuckoo's Nest",
+                         "Slaughterhouse Five",
+                         "Catch Twenty Two",
+                         "Brave New World",
+                         "A Clockwork Orange",
+                         "Cat's Cradle"
+                     ]
+                 },
+                 {
+                     "What is the name of Rebel Alley's son?": [
+                         "Lem",
+                         "Guy",
+                         "Frederick",
+                         "Tripp",
+                         "Ron",
+                         "Benedict"
+                     ]
+                 },
+                 {
+                     "What musical instrument does Rebel Alley play?": [
+                         "The bagpipes",
+                         "The woodblock",
+                         "The Chapman stick",
+                         "The fiddle",
+                         "The flute",
+                         "The yabahar"
+                     ]
+                 },
+                 {
+                     "In what year was Rebel Alley's son born?": [
+                         "Two thousand eight",
+                         "Nineteen ninety nine",
+                         "Two thousand four",
+                         "Two thousand six",
+                         "Nineteen ninety eight",
+                         "Two thousand one"
+                     ]
+                 },
+                 {
+                     "In seasons one through four, how many episodes did not feature an appearance by Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>?": [
+                         "Seven",
+                         "Six",
+                         "Five",
+                         "Four",
+                         "Eight",
+                         "Nine"
+                     ]
+                 },
+                 {
+                     "What is Michael Bluth's birthday?": [
+                         "December fourteenth",
+                         "December twenty fourth",
+                         "March twelfth",
+                         "April first",
+                         "September sixteenth",
+                         "February thirteenth"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes did Lucille Austero appear in?": [
+                         "Twenty one",
+                         "Nineteen",
+                         "Seventeen",
+                         "Eighteen",
+                         "Sixteen",
+                         "Twenty two"
+                     ]
+                 },
+                 {
+                     "In which year does Lucille Austero decide to run for congress?": [
+                         "Two thousand twelve",
+                         "Two thousand four",
+                         "Two thousand six",
+                         "Two thousand ten",
+                         "Two thousand two",
+                         "Two thousand eight"
+                     ]
+                 },
+                 {
+                     "In what year was Michael Bluth born?": [
+                         "Nineteen sixty seven",
+                         "Nineteen seventy one",
+                         "Nineteen sixty nine",
+                         "Nineteen seventy three",
+                         "Nineteen sixty four",
+                         "Nineteen sixty three"
+                     ]
+                 },
+                 {
+                     "In what year did Michael Bluth marry Tracy?": [
+                         "Nineteen eighty nine",
+                         "Nineteen eighty seven",
+                         "Nineteen eighty five",
+                         "Nineteen eighty six",
+                         "Nineteen ninety",
+                         "Nineteen ninety one"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, what percentage of episodes does Michael Bluth appear in?": [
+                         "One hundred percent",
+                         "Ninety eight percent",
+                         "Ninety seven percent",
+                         "Ninety six percent",
+                         "Ninety five percent",
+                         "Ninety four percent"
+                     ]
+                 },
+                 {
+                     "What is George Bluth's prisoner number?": [
+                         "<say-as interpret-as=\"digits\">1881372911</say-as>",
+                         "<say-as interpret-as=\"digits\">7773425344</say-as>",
+                         "<say-as interpret-as=\"digits\">9892221012</say-as>"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes did not feature an appearance by George Bluth?": [
+                         "Four",
+                         "Three",
+                         "Two",
+                         "One",
+                         "Five",
+                         "Six"
+                     ]
+                 },
+                 {
+                     "In what year did George Bluth found the Bluth Company?": [
+                         "Nineteen fifty three",
+                         "Nineteen fifty one",
+                         "Nineteen fifty four",
+                         "Nineteen sixty one",
+                         "Nineteen sixty three",
+                         "Nineteen sixty nine"
+                     ]
+                 },
+                 {
+                     "George Bluth stole the idea for the frozen banana stand from an immigrant from which country?": [
+                         "Korea",
+                         "Portugal",
+                         "Peru",
+                         "Colombia",
+                         "Guatemala",
+                         "Vietnam"
+                     ]
+                 },
+                 {
+                     "How many religious awakenings does George Bluth have during the series?": [
+                         "Two",
+                         "One",
+                         "Three"
+                     ]
+                 },
+                 {
+                     "Mitchell Hurwitz originally intended George Senior to appear in how many episodes?": [
+                         "One",
+                         "Thirteen",
+                         "Four",
+                         "Six",
+                         "Eight",
+                         "Three"
+                     ]
                  }
 ];
 
@@ -2051,6 +2468,22 @@ var questions = [
 
  */
 
+/*
+
+Characters http://arresteddevelopment.wikia.com/wiki/Category:Arrested_Development_Characters
+p2
+p3
+p4
+p5
+p6
+p7
+p8
+p9
+p10
+p11
+p12
+
+ */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
 // etc.) The JSON body of the request is provided in the event parameter.
@@ -2177,7 +2610,7 @@ var CARD_TITLE = "Trivia"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        speechOutput = "I will ask you " + GAME_LENGTH.toString()
+        speechOutput = "Happy birthday Kayla! <break time=\"600ms\"/> Welcome to Arrested Development trivia. <break time=\"600ms\"/> I will ask you " + GAME_LENGTH.toString()
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin. ",
         shouldEndSession = false,
 
