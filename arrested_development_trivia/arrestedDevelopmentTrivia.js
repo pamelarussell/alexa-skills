@@ -2075,7 +2075,8 @@ var questions = [
                      "Which character did Mitchell Hurwitz originally intend to be played by a different actor in each appearance?": [
                          "Ann Veal",
                          "Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>",
-                         "Kitty Sanchez"
+                         "Kitty Sanchez",
+                         "Lupe"
                      ]
                  },
                  {
@@ -2429,8 +2430,524 @@ var questions = [
                          "Eight",
                          "Three"
                      ]
-                 }
-];
+                 },
+                 {
+                     "In which season does Tracey Bluth appear in a flashback video?": [
+                         "Season four",
+                         "Season one",
+                         "Season two",
+                         "Season three"
+                     ]
+                 },
+                 {
+                     "What is the spelling of Baby talk, the product marketed by George Bluth in the early nineteen nineties?": [
+                         "<say-as interpret-as=\"spell-out\">Babytock!</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Bay-B-talk!</say-as>",
+                         "<say-as interpret-as=\"spell-out\">Baebytalk!</say-as>"
+                     ]
+                 },
+                 {
+                     "Which of the following is not one of Gene Parmesan's disguises?": [
+                         "Construction worker",
+                         "Janitor",
+                         "Firefighter",
+                         "Doctor",
+                         "Fry cook",
+                         "Blue bear suit"
+                     ]
+                 },
+                 {
+                     "Which character is portrayed by the same actor who played Colonel Mustard in the 1985 movie Clue?": [
+                         "Gene Parmesan",
+                         "George Bluth",
+                         "Warden Gentles",
+                         "Barry Zuckerkorn",
+                         "Officer Taylor",
+                         "Jack Dorso"
+                     ]
+                 },
+                 {
+                     "Which seasons did Maggie Lizer appear in?": [
+                         "One and two",
+                         "One and three",
+                         "One and four",
+                         "Two and three",
+                         "Two and four",
+                         "One, two, and three",
+                         "One, two, and four"
+                     ]
+                 },
+                 {
+                     "What is Lucille Bluth's maiden name?": [
+                         "Jenkins",
+                         "Franklin",
+                         "Hartfield",
+                         "Popper",
+                         "Carter",
+                         "Crenshaw"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, what percentage of episodes does Lucille Bluth appear in?": [
+                         "Ninety seven percent",
+                         "Ninety eight percent",
+                         "Ninety five percent",
+                         "Ninety four percent",
+                         "Ninety three percent",
+                         "Ninety six percent"
+                     ]
+                 },
+                 {
+                     "What is the address of the model home?": [
+                         "One Lucille Lane",
+                         "One Bluth Circle",
+                         "One Sudden Place",
+                         "One George Way",
+                         "One Newport Court"
+                     ]
+                 },
+                 {
+                     "Which seasons does Tony Wonder appear in?": [
+                         "Two, three, and four",
+                         "Two and three",
+                         "Three and four",
+                         "Two and four",
+                         "One, two, and four",
+                         "One and three"
+                     ]
+                 },
+                 {
+                     "Which seasons does Kitty Sanchez appear in?": [
+                         "One, two, three, and four",
+                         "One and two",
+                         "One, two, and three",
+                         "One, two, and four"
+                     ]
+                 },
+                 {
+                     "Who worked as Lucille Austero's campaign manager for her 2012 congressional run?": [
+                         "Sally Sitwell",
+                         "Michael Bluth",
+                         "Wayne Jarvis",
+                         "Jessie Bowers"
+                     ]
+                 },
+                 {
+                     "Which seasons does Sally Sitwell appear in?": [
+                         "Two, three, and four",
+                         "One, two, and three",
+                         "One, two, and four",
+                         "Two and three",
+                         "Three and four",
+                         "One, three, and four"
+                     ]
+                 },
+                 {
+                     "What is Oscar Bluth's middle name?": [
+                         "George",
+                         "Michael",
+                         "Byron"
+                     ]
+                 },
+                 {
+                     "Which season included the greatest number of episodes featuring Oscar Bluth?": [
+                         "Season two",
+                         "Season one",
+                         "Season three",
+                         "Season four"
+                     ]
+                 },
+                 {
+                     "Which seasons does Franklin Delano Bluth appear in?": [
+                         "Two and three",
+                         "One and two",
+                         "Two, three, and four",
+                         "Two and four",
+                         "One, two, and three"
+                     ]
+                 },
+                 {
+                     "What is the name of Jobe's wife's lawyer?": [
+                         "Saul Zentsman",
+                         "Amos Aaronson",
+                         "Benjamin Edelman",
+                         "Daniel Weissman",
+                         "Eli Appelbaum"
+                     ]
+                 },
+                 {
+                     "Which seasons does Carl Weathers appear in?": [
+                         "One, two, and four",
+                         "One and two",
+                         "One, two, and three",
+                         "One, three, and four",
+                         "One and three"
+                     ]
+                 },
+                 {
+                     "In which seasons does Ron Howard appear on screen?": [
+                         "Three and four",
+                         "Four",
+                         "One and four",
+                         "One, two, and four",
+                         "Two and four"
+                     ]
+                 },
+                 {
+                     "What condition does Marky Bark suffer from?": [
+                         "Prosopagnosia",
+                         "Fibrodysplasia",
+                         "Cold Urticaria",
+                         "Hypertrichosis",
+                         "Cardiomyopathy",
+                         "Kawasaki disease"
+                     ]
+                 },
+                 {
+                     "How did J Walter Weatherman lose his arm?": [
+                         "Construction accident",
+                         "Land mine",
+                         "Shark attack",
+                         "Train accident"
+                     ]
+                 },
+                 {
+                     "How old was Jack Dorso when he lost the use of his legs?": [
+                         "Seventy",
+                         "Sixty",
+                         "Seventy six",
+                         "Forty",
+                         "Fifty six"
+                     ]
+                 },
+                 {
+                     "Which seasons does Misses Veal appear in?": [
+                         "Two and four",
+                         "One and two",
+                         "Three and four",
+                         "One, two, and four",
+                         "Two, three, and four",
+                         "One and three"
+                     ]
+                 },
+                 {
+                     "Which seasons does Andy Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme> appear in?": [
+                         "Two, three, and four",
+                         "Two and four",
+                         "Three and four",
+                         "One, three, and four",
+                         "One, two, and four"
+                     ]
+                 },
+                 {
+                     "Which seasons does Doctor Fishman appear in?": [
+                         "One, two, and four",
+                         "Two and four",
+                         "One and two",
+                         "Two, three, and four",
+                         "One, three, and four",
+                         "Two and three"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes does John Beard appear in?": [
+                         "Twenty four",
+                         "Twelve",
+                         "Sixteen",
+                         "Eighteen",
+                         "Twenty two",
+                         "Fourteen"
+                     ]
+                 },
+                 {
+                     "Which seasons does Mort Meyer appear in?": [
+                         "Two, three, and four",
+                         "Three and four",
+                         "Two and four",
+                         "Two and three"
+                     ]
+                 },
+                 {
+                     "What company does Mort Meyers form after being fired from Tantamount Studios?": [
+                         "Schnoodle",
+                         "Marble",
+                         "Air table",
+                         "Accredible",
+                         "Shippo",
+                         "Elucify"
+                     ]
+                 },
+                 {
+                     "How many episodes does Ice appear in?": [
+                         "Two",
+                         "One",
+                         "Three"
+                     ]
+                 },
+                 {
+                     "Which seasons does Terry Veal appear in?": [
+                         "Two and four",
+                         "Two, three, and four",
+                         "One and four",
+                         "One and two",
+                         "Three and four",
+                         "Two and three"
+                     ]
+                 },
+                 {
+                     "Which seasons does Wayne Jarvis appear in?": [
+                         "One, two, and three",
+                         "One and two",
+                         "Two and three",
+                         "One and three"
+                     ]
+                 },
+                 {
+                     "In the season three episode Mister F, Uncle Trevor is seen doing what, while brushing his teeth?": [
+                         "Smoking",
+                         "Connecting a wire tap",
+                         "Driving",
+                         "Hiding chocolate",
+                         "Sitting in a hot tub"
+                     ]
+                 },
+                 {
+                     "What is the name of Officer Taylor's partner?": [
+                         "David Carter",
+                         "Ian Franklin",
+                         "Jonathan Penrose",
+                         "Matthew McGinley",
+                         "Bradley Jefferson",
+                         "Antonio DiMaggio"
+                     ]
+                 },
+                 {
+                     "Which season does Officer Taylor NOT appear in?": [
+                         "Season three",
+                         "Season one",
+                         "Season two",
+                         "Season four"
+                     ]
+                 },
+                 {
+                     "Which of the following characters is portrayed in the pilot episode by an uncredited extra?": [
+                         "T Bone",
+                         "Ann Veal",
+                         "Lupe",
+                         "Marta <phoneme alphabet=\"ipa\" ph=\"ɛstɹeɪjə\">Estrella</phoneme>",
+                         "Eve Holt"
+                     ]
+                 },
+                 {
+                     "What is the name of Johnny Bark's wife?": [
+                         "Joan Bark",
+                         "Molly Bark",
+                         "Jenny Bark",
+                         "Julie Bark",
+                         "Minnie Bark",
+                         "Margie Bark"
+                     ]
+                 },
+                 {
+                     "Which character is played by Ron Howard's brother?": [
+                         "Johnny Bark",
+                         "J Walter Weatherman",
+                         "Argyle Austero",
+                         "<phoneme alphabet=\"ipa\" ph=\"nɑʒgalja\">Nazhgalia</phoneme>",
+                         "Terry Veal",
+                         "Doctor Fishman"
+                     ]
+                 },
+                 {
+                     "Which seasons does Johnny Bark appear in?": [
+                         "One and four",
+                         "One and two",
+                         "Two and four",
+                         "One, two, and four",
+                         "One and three",
+                         "One, three, and four"
+                     ]
+                 },
+                 {
+                     "What are the letters after Doctor Phil <phoneme alphabet=\"ipa\" ph=\"gʌnti\">Gunty</phoneme>'s name?": [
+                         "<say-as interpret-as=\"spell-out\">MFCC</say-as>",
+                         "<say-as interpret-as=\"spell-out\">CRMA</say-as>",
+                         "<say-as interpret-as=\"spell-out\">CMT</say-as>",
+                         "<say-as interpret-as=\"spell-out\">CCMT</say-as>",
+                         "<say-as interpret-as=\"spell-out\">CDFM</say-as>",
+                         "<say-as interpret-as=\"spell-out\">MCP</say-as>"
+                     ]
+                 },
+                 {
+                     "How much weight did Cindi Lightballoon lose from dieting on Bluth Banana Jail Bars?": [
+                         "Four pounds",
+                         "Six pounds",
+                         "Eight pounds",
+                         "Seven pounds",
+                         "Nine pounds"
+                     ]
+                 },
+                 {
+                     "Which seasons does Stefan Gentles appear in?": [
+                         "One, three, and four",
+                         "One and four",
+                         "Three and four",
+                         "One, two, and four",
+                         "Two and four"
+                     ]
+                 },
+                 {
+                     "Which character is played by the actor who voiced Homer on The Simpsons?": [
+                         "Doctor Stein",
+                         "Doctor Fishman",
+                         "Wayne Jarvis",
+                         "James Carr",
+                         "Jack Dorso",
+                         "Larry Middleman"
+                     ]
+                 },
+                 {
+                     "What is the name of the waitress who sued Skip Church's Bistro for making her gain weight?": [
+                         "Loretta",
+                         "Lois",
+                         "Linda",
+                         "Lucinda",
+                         "Lorna",
+                         "Lenora"
+                     ]
+                 },
+                 {
+                     "Over seasons one through four, how many episodes does the man with the freedom sign appear in?": [
+                         "Five",
+                         "Four",
+                         "Three",
+                         "Six",
+                         "Two",
+                         "Seven"
+                     ]
+                 },
+                 {
+                     "What is the name of the paralegal who sues Barry Zuckerkorn for discrimination?": [
+                         "James Alan Spangler",
+                         "Bradley Jacob Clark",
+                         "Jeffrey Robert Strickland",
+                         "Matthew David Townsend",
+                         "Christopher Daniel Becker",
+                         "Andrew Jason Campbell"
+                     ]
+                 },
+                 {
+                     "Which seasons feature appearances by Trisha Thoon?": [
+                         "One and four",
+                         "One, two, and four",
+                         "One, two, three, and four",
+                         "One, three, and four"
+                     ]
+                 },
+                 {
+                     "The real life William Hung, gained fame in 2004, for performing which song on American Idol?": [
+                         "She Bangs, by Ricky Martin",
+                         "Ignition, by R Kelly",
+                         "Bring me to Life, by Evanescence",
+                         "Baby Boy, by Beyonce",
+                         "Magic Stick, by Lil Kim",
+                         "Cry Me a River, by Justin Timberlake"
+                     ]
+                 },
+                 {
+                     "Who was the first character to break the fourth wall during the series, by looking directly into the camera?": [
+                         "Lionel Ping",
+                         "Barry Zuckerkorn",
+                         "Buster Bluth",
+                         "Wayne Jarvis",
+                         "Frank Wrench",
+                         "Doctor Stein"
+                     ]
+                 },
+                 {
+                     "How is Chareth Rick<phoneme alphabet=\"ipa\" ph=\"təɹ\">ter</phoneme> sometimes known?": [
+                         "Chareth the Flirt",
+                         "Sneaky Chareth",
+                         "Flaky Chareth",
+                         "Chareth the Rock",
+                         "Chareth the Cat",
+                         "Timidd Chareth"
+                     ]
+                 },
+                 {
+                     "What is the name of the C.I.A. agent who follows Buster, Jobe, and Michael, to the Bluth Company model homes in Iraq?": [
+                         "Richard Shaw",
+                         "Bernard Jenkins",
+                         "Jim Baldwin",
+                         "Gabriel Alvin",
+                         "Archie Felsenstein",
+                         "Art Bartholomew"
+                     ]
+                 },
+                 {
+                     "Which character is never attacked by Cindy the ostrich?": [
+                         "George Michael Bluth",
+                         "Michael Bluth",
+                         "Lucille Austero",
+                         "Maybe <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>",
+                         "Lindsay <phoneme alphabet=\"ipa\" ph=\"fjuŋkeɪ\">Funke</phoneme>"
+                     ]
+                 },
+                 {
+                     "What is the name of George Michael's host while studying abroad in Spain?": [
+                         "Rosalita",
+                         "Sofia",
+                         "Isabella",
+                         "Luciana",
+                         "Mariana",
+                         "Gabriela"
+                     ]
+                 },
+                 {
+                     "What is the name of the Orange County Prison warden who was replaced by Stefan Gentles?": [
+                         "James Buck",
+                         "Trevor Martinez",
+                         "Terence Wright",
+                         "Kenneth King",
+                         "Garrett Hall",
+                         "Vincent Walker"
+                     ]
+                 },
+                 {
+                     "Detective Fellows, who interrogates Michael about the disappearance of Kitty Sanchez in season one, is played by an actor who later competed three times on which reality show?": [
+                         "Survivor",
+                         "The Bachelorette",
+                         "Big Brother",
+                         "So You Think You Can Dance",
+                         "Hell's Kitchen",
+                         "America's Got Talent"
+                     ]
+                 },
+                 {
+                     "What is the name of the treatment facility where Lucille Austero spends a month being treated for vertigo?": [
+                         "The Plumb Clinic",
+                         "A Balanced Body",
+                         "Balance Health Institute",
+                         "Healing Access",
+                         "Oasis Vitality Center",
+                         "Precision Vertigo Care"
+                     ]
+                 },
+                 {
+                     "What is the name of Wayne Jarvis's legal assistant?": [
+                         "Choe",
+                         "Albert",
+                         "Jun-young",
+                         "Byron"
+                     ]
+                 },
+                 {
+                     "Cinco de Cuatro was organized in 1982 when which Bluth family housekeeper took May fifth off to celebrate Cinco de Mayo with her family?": [
+                         "Rosa",
+                         "Luce",
+                         "Lupe"
+                     ]
+                 }];
 
 /* To copy
 
@@ -2468,22 +2985,6 @@ var questions = [
 
  */
 
-/*
-
-Characters http://arresteddevelopment.wikia.com/wiki/Category:Arrested_Development_Characters
-p2
-p3
-p4
-p5
-p6
-p7
-p8
-p9
-p10
-p11
-p12
-
- */
 
 // Route the incoming request based on type (LaunchRequest, IntentRequest,
 // etc.) The JSON body of the request is provided in the event parameter.
