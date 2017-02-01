@@ -2947,6 +2947,14 @@ var questions = [
                          "Luce",
                          "Lupe"
                      ]
+                 },
+                 {
+                     "What name does Jobe never call <phoneme alphabet=\"ipa\" ph=\"nɑʒgalja\">Nazhgalia</phoneme>?": [
+                         "<phoneme alphabet=\"ipa\" ph=\"nɑʒbartrəm\">Nazhbartram</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"næʒbægəlæʒdəm\">...</phoneme>",
+                         "Nagarmat",
+                         "N, VonOnnin"
+                     ]
                  }];
 
 /* To copy
@@ -3111,7 +3119,7 @@ var CARD_TITLE = "Trivia"; // Be sure to change this for your skill.
 
 function getWelcomeResponse(callback) {
     var sessionAttributes = {},
-        speechOutput = "Happy birthday Kayla! <break time=\"600ms\"/> Welcome to Arrested Development trivia. <break time=\"600ms\"/> I will ask you " + GAME_LENGTH.toString()
+        speechOutput = "Welcome to Arrested Development trivia. <break time=\"600ms\"/> I will ask you " + GAME_LENGTH.toString()
             + " questions, try to get as many right as you can. Just say the number of the answer. Let's begin. ",
         shouldEndSession = false,
 
