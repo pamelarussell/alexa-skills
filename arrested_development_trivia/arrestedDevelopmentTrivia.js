@@ -2951,7 +2951,7 @@ var questions = [
                  {
                      "What name does Jobe never call <phoneme alphabet=\"ipa\" ph=\"nɑʒgalja\">Nazhgalia</phoneme>?": [
                          "<phoneme alphabet=\"ipa\" ph=\"nɑʒbartrəm\">Nazhbartram</phoneme>",
-                         "<phoneme alphabet=\"ipa\" ph=\"næʒbægəlæʒdəm\">...</phoneme>",
+                         "<phoneme alphabet=\"ipa\" ph=\"næʒbægəlæʒdəm\">Nazhbakalazhdam</phoneme>",
                          "Nagarmat",
                          "N, VonOnnin"
                      ]
@@ -3351,6 +3351,7 @@ function isAnswerSlotValid(intent) {
 
 // ------- Helper functions to build responses -------
 
+var regex = /(<([^>]+)>)/ig;
 
 function buildSpeechletResponse(title, output, repromptText, shouldEndSession) {
     return {
@@ -3361,7 +3362,7 @@ function buildSpeechletResponse(title, output, repromptText, shouldEndSession) {
         card: {
             type: "Simple",
             title: title,
-            content: output
+            content: output.replace(regex, "")
         },
         reprompt: {
             outputSpeech: {
