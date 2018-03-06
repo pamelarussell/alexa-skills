@@ -1,8 +1,4 @@
-# Alexa skills
-
-Interactive voice applications for the Amazon Echo
-
-## Bluth Trivia: Unofficial Arrested Development Game
+# Bluth Trivia: Unofficial Arrested Development Game
 
 A challenging trivia game for devoted fans of the hit television show Arrested Development. Each game consists of five multiple choice questions chosen randomly from a large set. The game does not access the user's account or save its state after completion.
   
